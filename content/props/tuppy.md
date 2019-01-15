@@ -9,12 +9,12 @@ beds: 3
 categories:
 - Freistehende-Villa
 - €300001-€400000
-- Valencia
+- Murcia
 - Costa Blanca South
 - Murcia
 - Mazaron
 - Puerto de Mazaron
-community: Valencia
+community: Murcia
 costa: Costa Blanca South
 created: 2019-01-15 12:10:02.056100
 currency: null
@@ -35,7 +35,7 @@ images: []
 kdate: 2019-01-15 12:10:02.056114
 kitchen: separate
 kref: tuppy
-lastedited: 2019-01-15 12:11:25.089676
+lastedited: 2019-01-15 12:12:31.451825
 living: 90
 location: Puerto de Mazaron
 luxury: false
@@ -51,7 +51,7 @@ province: Murcia
 ptype: Detached Villa
 ref: tuppy
 salestage: 0
-shas: null
+shas: '{"de": "51b70066cabad4df573eb6cf1b6dde9f6566a4f7", "en": "20b58d1a48e47bcccb13d992ef83469abef0b5da"}'
 slug: de/5891733057437696-Freistehende-Villa-zu-verkaufen-Puerto-de-Mazaron/
 solarium: false
 topsix: false
