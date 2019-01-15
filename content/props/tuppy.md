@@ -10,12 +10,11 @@ categories:
 - Freistehende-Villa
 - €300001-€400000
 - Murcia
-- Costa Blanca South
-- Murcia
+- Costa Calida
 - Mazaron
 - Puerto de Mazaron
 community: Murcia
-costa: Costa Blanca South
+costa: Costa Calida
 created: 2019-01-15 12:10:02.056100
 currency: null
 description: Great Villa close to the port and beach.
@@ -35,7 +34,7 @@ images: []
 kdate: 2019-01-15 12:10:02.056114
 kitchen: separate
 kref: tuppy
-lastedited: 2019-01-15 12:12:31.451825
+lastedited: 2019-01-15 12:31:23.280240
 living: 90
 location: Puerto de Mazaron
 luxury: false
@@ -51,7 +50,7 @@ province: Murcia
 ptype: Detached Villa
 ref: tuppy
 salestage: 0
-shas: '{"de": "51b70066cabad4df573eb6cf1b6dde9f6566a4f7", "en": "20b58d1a48e47bcccb13d992ef83469abef0b5da"}'
+shas: '{"de": "17526d1895e514c7ba3e54a7f58be759255ae546", "en": "cfe4a1af68f7bbc359f61a9666e85d6a0857fc2d"}'
 slug: de/5891733057437696-Freistehende-Villa-zu-verkaufen-Puerto-de-Mazaron/
 solarium: false
 topsix: false
