@@ -66,7 +66,7 @@ images:
 kdate: 2019-01-16 16:21:23.037000
 kitchen: open
 kref: SHN2-AA-PH0009a
-lastedited: 2019-01-16 19:47:53.132669
+lastedited: 2019-01-16 20:06:39.199975
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -82,7 +82,7 @@ province: Alicante
 ptype: Semidetached Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
+shas: '{"de": "cbd09fb5795440089a4df30223445511eb32d320", "en": "cd39e5bf5df75e080bc14cf2bc1bd444b4f21630"}'
 slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
