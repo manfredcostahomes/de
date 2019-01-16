@@ -66,9 +66,9 @@ images:
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
 kdate: 2019-01-16 16:21:23.037000
-kitchen: open
+kitchen: offene
 kref: SHN2-AA-PH0009a
-lastedited: 2019-01-16 20:25:29.921440
+lastedited: 2019-01-16 20:40:53.878276
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -78,13 +78,13 @@ originalprice: 198800
 penthouse: false
 pid: 5074003093880832
 plot: 109
-pool: private
+pool: privates
 price: 189900
 province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "d4f3b987d87427dbb4e511ee1a9ee3942cba0c46", "en": "a79fc3471007d53de5fa210e2972797af6fb8e02"}'
+shas: '{"de": "30ce6ff368fc718f28605f934ebaa394f7febb91", "en": "28d35f365cbef3ab8f1e8272feadda73e1c3cbac"}'
 slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
