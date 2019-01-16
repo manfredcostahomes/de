@@ -41,7 +41,7 @@ description: Modern new build semi-villas with a huge solarium in Pilar De La Ho
 display: true
 enslug: en/5074003093880832-Semidetached Villa-for-sale-Pilar-De-La-Horadada/
 features:
-- ''
+- Huge Solarium
 finca: false
 fireplace: false
 frequency: sale
@@ -66,7 +66,7 @@ images:
 kdate: 2019-01-16 16:21:23.037000
 kitchen: open
 kref: SHN2-AA-PH0009a
-lastedited: 2019-01-16 17:11:53.357580
+lastedited: 2019-01-16 19:47:53.132669
 living: 90
 location: Pilar De La Horadada
 luxury: false
