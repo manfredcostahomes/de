@@ -28,7 +28,8 @@ costa: Costa Blanca Süd
 created: 2019-01-16 16:21:23.037000
 currency: null
 defeatures:
-- ''
+- großes Solarium
+- Nah am Strand
 description: Modern new build semi-villas with a huge solarium in Pilar De La Horadada
   - a typical  Spanish town with a wide range of shops, bars and restaurants to choose
   from and next to  the beaches and marina of Torre De La Horadada - lovely seafront
@@ -42,6 +43,7 @@ display: true
 enslug: en/5074003093880832-Semidetached Villa-for-sale-Pilar-De-La-Horadada/
 features:
 - Huge Solarium
+- Near The Beach
 finca: false
 fireplace: false
 frequency: sale
@@ -66,7 +68,7 @@ images:
 kdate: 2019-01-16 16:21:23.037000
 kitchen: open
 kref: SHN2-AA-PH0009a
-lastedited: 2019-01-16 20:08:47.621497
+lastedited: 2019-01-16 20:17:04.260163
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -82,7 +84,7 @@ province: Alicante
 ptype: Semidetached Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
+shas: '{"de": "004fe727d98b6c7d86c946f7ff79336e0b14fceb", "en": "89f58f742af2467d9c93c5741e80ccc534ce6d22"}'
 slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
