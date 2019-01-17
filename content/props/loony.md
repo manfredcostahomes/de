@@ -7,13 +7,14 @@ baths: 2
 beach: false
 beds: 3
 categories:
-- Orihuela Costa
-- €100001-€200000
+- Alicante
+- Neubau
+- Costa Blanca Süd
+- Wohnung
 - Valencia
 - Villamartin
-- Wohnung
-- Costa Blanca Süd
-- Alicante
+- Orihuela Costa
+- €100001-€200000
 community: Valencia
 costa: Costa Blanca Süd
 created: '2019-01-16 19:08:22'
@@ -35,12 +36,12 @@ images: []
 kdate: '2019-01-16 19:08:22'
 kitchen: offene
 kref: loony
-lastedited: '2019-01-17 12:01:32'
+lastedited: '2019-01-17 12:09:40'
 living: 80
 location: Villamartin
 luxury: false
 moredetails: ''
-offplan: false
+offplan: true
 originalprice: 123000
 penthouse: false
 pid: 5681726336532480
@@ -51,7 +52,7 @@ province: Alicante
 ptype: Wohnung
 ref: loony
 salestage: 0
-shas: '{"de": "5f0ca7a0cbdddc163a823201764fd671ea2357d0", "en": "937b4b3db506fc6a42c2e4ff4d72dfae6c01cdc2"}'
+shas: '{"en": "97eb8cdaa9d141050d54c15b84374eea39d726a5", "de": "54036ee15aeef8a50bda32a83f4a042925aa239b"}'
 slug: de/5681726336532480-Wohnung-zu-verkaufen-Villamartin/
 solarium: false
 topsix: false
