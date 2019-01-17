@@ -16,6 +16,7 @@ categories:
 - Costa Calida
 - Los Alcazares
 - Murcia
+- Neubau
 - €100001-€200000
 - Doppelhaus-Villa
 community: Murcia
@@ -74,7 +75,7 @@ images:
 kdate: '2019-01-17 11:53:14'
 kitchen: offene
 kref: SHN2-AA-Alc4133
-lastedited: '2019-01-17 11:53:26'
+lastedited: '2019-01-17 12:14:02'
 living: 80
 location: Los Alcazares
 luxury: false
@@ -90,7 +91,7 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{''en'': ''nosha'',''de'': ''nosha''}'
+shas: '{"de": "eef3d380c9e066fb8029b691c9eb09f84333b57a", "en": "12f11ea58619acd1c19a0b1ce71a7c0d6e9d981c"}'
 slug: de/5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
 topsix: false
