@@ -8,7 +8,6 @@ beach: false
 beds: 3
 categories:
 - Alicante
-- Neubau
 - Costa Blanca Süd
 - Wohnung
 - Valencia
@@ -36,12 +35,12 @@ images: []
 kdate: '2019-01-16 19:08:22'
 kitchen: offene
 kref: loony
-lastedited: '2019-01-17 12:09:40'
+lastedited: '2019-01-17 12:10:24'
 living: 80
 location: Villamartin
 luxury: false
 moredetails: ''
-offplan: true
+offplan: false
 originalprice: 123000
 penthouse: false
 pid: 5681726336532480
@@ -52,7 +51,7 @@ province: Alicante
 ptype: Wohnung
 ref: loony
 salestage: 0
-shas: '{"en": "97eb8cdaa9d141050d54c15b84374eea39d726a5", "de": "54036ee15aeef8a50bda32a83f4a042925aa239b"}'
+shas: '{"en": "3ebc9ec0e190087b896676c9136953addf11f090", "de": "3bc0cee94597d8a1ae434af24c51246265710ff9"}'
 slug: de/5681726336532480-Wohnung-zu-verkaufen-Villamartin/
 solarium: false
 topsix: false
