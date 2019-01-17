@@ -25,7 +25,7 @@ categories:
 - Doppelhaus-Villa
 community: Valencia
 costa: Costa Blanca Süd
-created: 2019-01-16 16:21:23.037000
+created: '2019-01-16 16:21:23'
 currency: null
 defeatures:
 - großes Solarium
@@ -47,7 +47,7 @@ features:
 finca: false
 fireplace: false
 frequency: sale
-furnished: partly
+furnished: Teilmöbliert
 golf: false
 heating: false
 images:
@@ -65,10 +65,10 @@ images:
 - https://lh3.googleusercontent.com/pMl2PDG2kdjVxTK0IhIIkCKqdKIRIs33sJyx7uvpwb-PZQksXz8KiRRHzZxMlQEkYlgsN_D6MU62bf8KuOnV=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
-kdate: 2019-01-16 16:21:23.037000
+kdate: '2019-01-16 16:21:23'
 kitchen: offene
 kref: SHN2-AA-PH0009a
-lastedited: 2019-01-16 20:40:53.878276
+lastedited: '2019-01-17 11:40:27'
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -84,7 +84,7 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "30ce6ff368fc718f28605f934ebaa394f7febb91", "en": "28d35f365cbef3ab8f1e8272feadda73e1c3cbac"}'
+shas: '{"de": "eb903f676077959fd68e6a4c384374fdc892152a", "en": "c39be5b93f70d3b03070fd54c82d86322f947342"}'
 slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
