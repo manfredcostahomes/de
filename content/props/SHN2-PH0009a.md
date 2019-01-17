@@ -19,6 +19,7 @@ beds: 2
 categories:
 - Costa Blanca Süd
 - Pilar De La Horadada
+- Neubau
 - Alicante
 - Valencia
 - €100001-€200000
@@ -68,7 +69,7 @@ images:
 kdate: '2019-01-16 16:21:23'
 kitchen: offene
 kref: SHN2-AA-PH0009a
-lastedited: '2019-01-17 11:40:27'
+lastedited: '2019-01-17 12:14:21'
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -84,7 +85,7 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "eb903f676077959fd68e6a4c384374fdc892152a", "en": "c39be5b93f70d3b03070fd54c82d86322f947342"}'
+shas: '{"de": "861c660080d9154671ec4a3588372eb22be3b962", "en": "9e8c24da899cb4413b0579463e8a2bbec13586c8"}'
 slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
