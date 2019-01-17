@@ -1,5 +1,5 @@
 ---
-DE: Apartmente mit Meeresblicke
+DE: Wohnung mit Meeresblicke
 ES: ES
 aircon: true
 balconies: '1'
@@ -35,7 +35,7 @@ images: []
 kdate: '2019-01-16 19:08:22'
 kitchen: offene
 kref: loony
-lastedited: '2019-01-17 12:10:24'
+lastedited: '2019-01-17 12:11:44'
 living: 80
 location: Villamartin
 luxury: false
@@ -51,7 +51,7 @@ province: Alicante
 ptype: Wohnung
 ref: loony
 salestage: 0
-shas: '{"en": "3ebc9ec0e190087b896676c9136953addf11f090", "de": "3bc0cee94597d8a1ae434af24c51246265710ff9"}'
+shas: '{"en": "d49f5ef7076796a420ea7ac545a4921e2c9fab12", "de": "c37673d868381717e8846531057f82e1156ff6e4"}'
 slug: de/5681726336532480-Wohnung-zu-verkaufen-Villamartin/
 solarium: false
 topsix: false
