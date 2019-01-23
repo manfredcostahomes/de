@@ -1,5 +1,6 @@
-baseurl = "https://de.manfredcostahomes.com"
+baseurl = "/"
 title = "Manfred Costa Blanca Homes"
+relativeURLs = true
 
 [taxonomies]
-  haus = "hauser"
+  zu-verkaufen = "zu-verkaufen"

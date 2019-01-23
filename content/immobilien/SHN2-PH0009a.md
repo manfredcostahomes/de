@@ -16,7 +16,7 @@ balconies: '1'
 baths: 2
 beach: true
 beds: 2
-hauser:
+zu-verkaufen:
 - Costa Blanca Sud
 - Pilar De La Horadada
 - Neubau

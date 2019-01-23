@@ -12,7 +12,7 @@ balconies: '1'
 baths: 1
 beach: true
 beds: 2
-hauser:
+zu-verkaufen:
 - Costa Calida
 - Los Alcazares
 - Murcia

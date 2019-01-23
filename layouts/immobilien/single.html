@@ -1,1 +1,51 @@
-<h2>{{.Params.ptype}} {{.Params.location}} {{.Params.town}}</h2>
+{{ define "head" }}
+
+<link rel="stylesheet" href="/css/amp.css">
+    
+{{ end }}
+
+{{ define "header" }}
+ 
+{{ end }}
+
+{{ define "main" }}
+
+  <div class="columns is-desktop is-gapless">
+      <div class="column-top column is-three-quarters is-vcentered">
+          <div class="navbar-item column-top column is-vcentered is-size-4 has-text-left has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
+          <amp-carousel width="960" height="500" layout="responsive" type="slides" autoplay delay="3200"> 
+              {{ range .Params.images }}
+              <amp-img src="{{ . }}" width="640" height="480" layout="responsive"></amp-img>
+              {{ end }}
+            </amp-carousel>
+      </div>
+      <div class="column xis-one-quarter">
+        <div class="navbar-item column-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-warning ">ref. {{ .Params.ref }}</div>
+      </div>
+    </div>
+  <div class="columns">
+      <div class="column is-three-quarters">
+          <div class="columns">
+      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div>
+      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Beds {{ .Params.beds }} </div>
+      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Baths {{ .Params.baths }} </div>
+      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Living {{ .Params.living }} m2</div>
+    </div>
+  </div>
+  </div>
+  <div class="columns">
+      <div class="column is-three-quarters">{{ .Params.description }}</div>
+    </div>
+{{ end }}
+{{ define "more" }}
+  <description>The Property Stuff<h2>{{.Params.ptype}} {{.Params.location}} {{.Params.town}}</h2></description> 
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}
+
+{{ define "foot" }}
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+{{ end }}

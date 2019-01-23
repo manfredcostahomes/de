@@ -17,7 +17,7 @@ balconies: '0'
 baths: 2
 beach: true
 beds: 3
-hauser:
+zu-verkaufen:
 - Costa Calida
 - €200001-€300000
 - Murcia
