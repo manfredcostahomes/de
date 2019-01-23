@@ -12,7 +12,7 @@ balconies: '1'
 baths: 1
 beach: true
 beds: 2
-categories:
+hauser:
 - Costa Calida
 - Los Alcazares
 - Murcia
@@ -41,7 +41,7 @@ description: Modern semi detached beach villas - just 800 m to sea and sandy bea
   more along the Mar Menor. Ask also for some  detached villas in this residence /
   plots of 350 sqm !
 display: true
-enslug: en/5147289865682944-Semidetached-Villa-for-sale-Los-Alcazares/
+enslug: 5147289865682944-Semidetached-Villa-for-sale-Los-Alcazares/
 features:
 - Roof Terrace
 - Garden
@@ -92,7 +92,7 @@ ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
 shas: '{"de": "eef3d380c9e066fb8029b691c9eb09f84333b57a", "en": "12f11ea58619acd1c19a0b1ce71a7c0d6e9d981c"}'
-slug: de/5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
+slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
 topsix: false
 town: Los Alcazares

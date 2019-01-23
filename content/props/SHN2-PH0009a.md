@@ -16,8 +16,8 @@ balconies: '1'
 baths: 2
 beach: true
 beds: 2
-categories:
-- Costa Blanca Süd
+hauser:
+- Costa Blanca Sud
 - Pilar De La Horadada
 - Neubau
 - Alicante
@@ -25,7 +25,7 @@ categories:
 - €100001-€200000
 - Doppelhaus-Villa
 community: Valencia
-costa: Costa Blanca Süd
+costa: Costa Blanca Sud
 created: '2019-01-16 16:21:23'
 currency: null
 defeatures:
@@ -41,7 +41,7 @@ description: Modern new build semi-villas with a huge solarium in Pilar De La Ho
   pool. Benefits include a large solarium where you can  enjoy all day sun, terrace,
   garden, pre installed A/C, off road parking, and storage. Book  your personal viewing.
 display: true
-enslug: en/5074003093880832-Semidetached-Villa-for-sale-Pilar-De-La-Horadada/
+enslug: 5074003093880832-Semidetached-Villa-for-sale-Pilar-De-La-Horadada/
 features:
 - Huge Solarium
 - Near The Beach
@@ -86,7 +86,7 @@ ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
 shas: '{"de": "861c660080d9154671ec4a3588372eb22be3b962", "en": "9e8c24da899cb4413b0579463e8a2bbec13586c8"}'
-slug: de/5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
+slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
 town: Pilar De La Horadada

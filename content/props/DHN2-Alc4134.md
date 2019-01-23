@@ -17,7 +17,7 @@ balconies: '0'
 baths: 2
 beach: true
 beds: 3
-categories:
+hauser:
 - Costa Calida
 - €200001-€300000
 - Murcia
@@ -44,7 +44,7 @@ description: Modern top quality seafront detached villas located only ca. 800 m 
   offer from renowned furniture suppliers. Modern style well  priced and full service
   included. Los Alcázares is near several golf courses, huge shopping  malls and more.
 display: true
-enslug: en/6302357163868160-Detached-Villa-for-sale-Los-Alcaceres/
+enslug: 6302357163868160-Detached-Villa-for-sale-Los-Alcaceres/
 features:
 - Private Pool Option
 - Roof Terrace
@@ -99,7 +99,7 @@ ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
 shas: '{''en'': ''nosha'',''de'': ''nosha''}'
-slug: de/6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcaceres/
+slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcaceres/
 solarium: false
 topsix: false
 town: Los Alcaceres
