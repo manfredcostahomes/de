@@ -37,7 +37,10 @@ rubruns,enqform {
  search, slides {
    padding: 10px;
  }
- .has-background-mchbrown{background-color: #8b684a;}
+ .has-background-mchbrown{background-color: #8b684a!important;}
+ .has-background-mchblue{background-color: #62defc!important;}
+ .has-background-mchyellow{background-color: #f4cc23!important;}
+
  .center, .center-column, .top, .right, .bottom, .left {
   display: flex;
 	justify-content: center;
@@ -55,4 +58,15 @@ rubruns,enqform {
 
 .single-spaced, .single-spaced * {
     line-height: 1;
+}
+input:invalid {
+  border: 1px dashed red;
+}
+input:valid {
+  border: 1px solid green;
+}
+ul#propfeatures li {
+  display: inline-block;
+  padding: 0.5rem;
+
 }

@@ -19,26 +19,71 @@
               {{ end }}
             </amp-carousel>
       </div>
-      <div class="column xis-one-quarter">
-        <div class="navbar-item column-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-warning ">ref. {{ .Params.ref }}</div>
+      <div class="column xis-one-quarter" style="border-left: 1px solid #ccc;">
+        <div class="navbar-item column-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchyellow ">Objekte-Nr: {{ .Params.ref }}</div>
+      <div style="padding: 3rem;">
+          <form>
+              <div class="text-section--dark enquiry-form__heading el-default-padding">
+                <h2 class="ky-h2-heading el-mb-clear">Anbieter kontaktieren</h2>
+              </div>
+              <div class="field">
+                  <label class="label">Name</label>
+                  <div class="control">
+                    <input name="name" class="input" type="text" placeholder="z. B.: Peter Schmidt" required>
+                  </div>
+              </div>
+              <div class="field">
+                    <label class="label">E-Mail</label>
+                    <div class="control">
+                      <input name="name" class="input" type="email" placeholder="z. B : beispiel@gmail.com" required>
+                    </div>
+              </div>
+              <div class="field">
+                  <label class="label">Message</label>
+                  <div class="control">
+                    <textarea class="textarea" placeholder="Haben Sie Fragen zu dieser Immobilie?">Ich interessiere mich für das Angebot. Bitte nehmen Sie Kontakt mit mir auf</textarea>
+                  </div>
+              </div>
+              <div class="field">
+                  <div class="control">
+                    <label class="checkbox">
+                      <input type="checkbox">
+                          Einen wöchentlichen Immobilienalarm &amp; Newsletter per E-Mail erhalten.
+                      </label>
+                  </div>
+              </div>
+              <div class="field">
+                  <div class="control">
+                    <input type="submit" class="button is-info" value="Anfrage senden">
+                  </div>                    
+              </div>
+                    
+            </form>
+      </div>
       </div>
     </div>
-  <div class="columns">
+    </div>
+  <div class="columns is-gapless">
       <div class="column is-three-quarters">
-          <div class="columns">
-      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div>
-      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Beds {{ .Params.beds }} </div>
-      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Baths {{ .Params.baths }} </div>
-      <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown ">Living {{ .Params.living }} m2</div>
+      <div class="columns is-mobile">
+      <!-- <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div> -->
+      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Schlafzimmer</span><br/> {{ .Params.beds }} </div>
+      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Badezimmer</span><br/>  {{ .Params.baths }} </div>
+      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Gebäudefläche</span><br/>  {{ .Params.living }} m²</div>
     </div>
   </div>
   </div>
-  <div class="columns">
-      <div class="column is-three-quarters">{{ .Params.description }}</div>
+  <div class="section columns">
+
+      <div class="column is-three-quarters">
+        <ul id="propfeatures" class="has-text-centered">{{ range .Params.defeatures }}<li class="feature is-uppercase has-text-weight-semibold">🛡{{ . }} </li>{{ end }}</ul>
+        <div>{{ .Params.de }}</div>
+      </div>
     </div>
+   
 {{ end }}
 {{ define "more" }}
-  <description>The Property Stuff<h2>{{.Params.ptype}} {{.Params.location}} {{.Params.town}}</h2></description> 
+  
 {{ end }}
 
 {{ define "footer" }}
