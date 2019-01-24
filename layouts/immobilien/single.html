@@ -11,16 +11,16 @@
 {{ define "main" }}
 
   <div class="columns is-desktop is-gapless">
-      <div class="column-top column is-three-quarters is-vcentered">
-          <div class="navbar-item column-top column is-vcentered is-size-4 has-text-left has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
-          <amp-carousel width="960" height="500" layout="responsive" type="slides" autoplay delay="3200"> 
+      <div class="xcolumn-top column is-three-quarters-desktop">
+          <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
+          <amp-carousel width="150" height="100" layout="responsive" type="slides" autoplay delay="3200"> 
               {{ range .Params.images }}
-              <amp-img src="{{ . }}" width="640" height="480" layout="responsive"></amp-img>
+              <amp-img src="{{ . }}" width="150" height="80" layout="responsive"></amp-img>
               {{ end }}
             </amp-carousel>
       </div>
-      <div class="column xis-one-quarter" style="border-left: 1px solid #ccc;">
-        <div class="navbar-item column-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchyellow ">Objekt-Nr: {{ .Params.ref }}</div>
+      <div class="column is-one-quarter-desktop" style="border-left: 1px solid #ccc;">
+        <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchyellow ">Objekt-Nr: {{ .Params.ref }}</div>
       <div style="padding: 3rem;">
           <form>
               <div class="text-section--dark enquiry-form__heading el-default-padding">
@@ -64,7 +64,7 @@
     </div>
     </div>
   <div class="columns is-gapless">
-      <div class="column is-three-quarters">
+      <div class="column is-three-quarters-desktop">
       <div class="columns is-mobile">
       <!-- <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div> -->
       <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Schlafzimmer</span><br/> {{ .Params.beds }} </div>
@@ -75,7 +75,7 @@
   </div>
   <div class="section columns">
 
-      <div class="column is-three-quarters">
+      <div class="column is-three-quarters-desktop">
         <ul id="propfeatures" class="has-text-centered">{{ range .Params.defeatures }}<li class="feature is-uppercase has-text-weight-semibold">🛡{{ . }} </li>{{ end }}</ul>
         <div>{{ .Params.de }}</div>
       </div>
