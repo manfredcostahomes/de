@@ -10,8 +10,8 @@
 
 {{ define "main" }}
 
-  <div class="columns is-desktop is-gapless">
-      <div class="xcolumn-top column is-three-quarters-desktop">
+  <div class="columns is-multiline is-desktop is-gapless">
+      <div class="column is-three-quarters-desktop">
           <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
           <amp-carousel width="150" height="100" layout="responsive" type="slides" autoplay delay="3200"> 
               {{ range .Params.images }}
@@ -19,7 +19,7 @@
               {{ end }}
             </amp-carousel>
       </div>
-      <div class="column is-one-quarter-desktop" style="border-left: 1px solid #ccc;">
+      <div class="column is-one-quarter-desktop is-hidden-touch" id="formboxdesktop" >
         <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchyellow ">Objekt-Nr: {{ .Params.ref }}</div>
       <div style="padding: 3rem;">
           <form>
@@ -61,9 +61,9 @@
             </form>
       </div>
       </div>
-    </div>
-    </div>
-  <div class="columns is-gapless">
+    <!--</div>-->
+    <!--</div>-->
+  <!--<div class="columns is-gapless">-->
       <div class="column is-three-quarters-desktop">
       <div class="columns is-mobile">
       <!-- <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div> -->
@@ -71,14 +71,55 @@
       <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Badezimmer</span><br/>  {{ .Params.baths }} </div>
       <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Wohnfläche</span><br/>  {{ .Params.living }} m²</div>
     </div>
-  </div>
-  </div>
-  <div class="section columns">
-
+  <!--</div>
+  </div>-->
+  <div class="section">
       <div class="column is-three-quarters-desktop">
         <ul id="propfeatures" class="has-text-centered">{{ range .Params.defeatures }}<li class="feature is-uppercase has-text-weight-semibold">🛡{{ . }} </li>{{ end }}</ul>
         <div>{{ .Params.de }}</div>
       </div>
+    </div>
+    <div class="column is-one-quarter-desktop is-hidden-desktop" id="formboxtouch" >
+      <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchyellow ">Objekt-Nr: {{ .Params.ref }}</div>
+    <div style="padding: 3rem;">
+        <form>
+            <div class="text-section--dark enquiry-form__heading el-default-padding">
+              <h2 class="ky-h2-heading el-mb-clear">Anbieter kontaktieren</h2>
+            </div>
+            <div class="field">
+                <label class="label">Name</label>
+                <div class="control">
+                  <input name="name" class="input" type="text" placeholder="z. B.: Peter Schmidt" required>
+                </div>
+            </div>
+            <div class="field">
+                  <label class="label">E-Mail</label>
+                  <div class="control">
+                    <input name="name" class="input" type="email" placeholder="z. B : beispiel@gmail.com" required>
+                  </div>
+            </div>
+            <div class="field">
+                <label class="label">Message</label>
+                <div class="control">
+                  <textarea class="textarea" placeholder="Haben Sie Fragen zu dieser Immobilie?">Ich interessiere mich für das Angebot. Bitte nehmen Sie Kontakt mit mir auf</textarea>
+                </div>
+            </div>
+            <div class="field">
+                <div class="control">
+                  <label class="checkbox">
+                    <input type="checkbox">
+                        Einen wöchentlichen Immobilienalarm &amp; Newsletter per E-Mail erhalten.
+                    </label>
+                </div>
+            </div>
+            <div class="field">
+                <div class="control">
+                  <input type="submit" class="button is-info" value="Anfrage senden">
+                </div>                    
+            </div>
+                  
+          </form>
+    </div>
     </div>
    
 {{ end }}
