@@ -12,6 +12,7 @@ body {
  #proptitle{min-height: 8vh;background-color:black; color:white;font-size: 2rem;padding: 8px}
  #proptitle ref{display: inline;}
 .column-top.column{padding: 0.75rem;}
+.columns{margin-top:0rem!important;}
  search,slides {
    flex: 1
  }
