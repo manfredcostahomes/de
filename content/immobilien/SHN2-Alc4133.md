@@ -34,7 +34,7 @@ description: Modern semi detached beach villas - just 800 m to sea and sandy bea
   more along the Mar Menor. Ask also for some  detached villas in this residence /
   plots of 350 sqm !
 display: true
-enslug: 5147289865682944-Semidetached-Villa-for-sale-Los-Alcazares/
+enslug: 5147289865682944-Semidetached-Villa-for-sale-Los-Alcázares/
 features:
 - Roof Terrace
 - Garden
@@ -52,6 +52,7 @@ hauser:
 - Los Alcazares
 - Neubau
 - von 100001 bis 200000
+- Los Alcázares
 - Provinz Murcia
 - Doppelhaus-Villa
 heating: false
@@ -61,6 +62,7 @@ homes:
 - Murcia Region
 - Los Alcazares
 - Semidetached Villa
+- Los Alcázares
 - Murcia Province
 - New Build
 images:
@@ -84,9 +86,9 @@ images:
 kdate: '2019-01-22 12:57:35'
 kitchen: offene
 kref: SHN2-AB-Alc4133
-lastedited: '2019-01-29 21:13:38'
+lastedited: '2019-01-30 14:10:10'
 living: 80
-location: Los Alcazares
+location: Los Alcázares
 luxury: false
 moredetails: ''
 offplan: true
@@ -100,8 +102,8 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
-slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
+shas: '{"de": "994df7b555bb53b3aa9e940d5a0fabd7e087908a", "en": "069778a8bc27fdb3f2bacf66fd5bf55a72685cd9"}'
+slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 topsix: false
 town: Los Alcazares
