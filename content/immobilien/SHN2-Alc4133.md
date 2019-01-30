@@ -51,7 +51,6 @@ hauser:
 - Murcia Region
 - Los Alcázares
 - Neubau
-- Alcázares
 - von 100001 bis 200000
 - Provinz Murcia
 - Doppelhaus-Villa
@@ -62,7 +61,6 @@ homes:
 - Murcia Region
 - Los Alcázares
 - Semidetached Villa
-- Alcázares
 - Murcia Province
 - New Build
 images:
@@ -83,10 +81,10 @@ images:
 - https://lh3.googleusercontent.com/ahp_ErUWCIpwNNdGibZ2upd3jbms2HFofi0XbxwIIv158WLEV_uWzc5APVwWc2Ox9x-pEMYm6AIOtVy938y3=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/UO_KblhAUaqM6IV3klANWa3V5WVE4hcyAwZeyZE6rVhvItlr3gGENHpkUgNYsPXP_Nrx3WfvpXwAXnaJkBO8jQ=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tQGMewaujoSy3NWBBTTHbFVGOsD4BrTjXG6Ai_lGFIqqxY4UP7nknN-IWElwPVR2OsJ0_Z5_CeyDHaTA1dYy=w640-rj-e30-l100
-kdate: '2019-01-30 14:10:15'
+kdate: '2019-01-30 14:11:54'
 kitchen: offene
-kref: SHN2-AC-Alc4133
-lastedited: '2019-01-30 14:11:51'
+kref: SHN2-AD-Alc4133
+lastedited: '2019-01-30 15:02:41'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -102,10 +100,10 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "3157c839051d86e6ccaec81693128090b239587e", "en": "eb229bb00d7bc10ad97cdf6485780f01bd4f0d86"}'
+shas: '{"de": "650134c3488df18c4aa485ea357bc05748618015", "en": "3f7466cc1cfb2de015f02f1bd882cd51fe305545"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 topsix: false
-town: Alcázares
+town: Los Alcázares
 utility: true
 ---
