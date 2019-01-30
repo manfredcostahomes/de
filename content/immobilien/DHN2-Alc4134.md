@@ -37,7 +37,7 @@ description: Modern top quality seafront detached villas located only ca. 800 m 
   offer from renowned furniture suppliers. Modern style well  priced and full service
   included. Los Alcázares is near several golf courses, huge shopping  malls and more.
 display: true
-enslug: 6302357163868160-Detached-Villa-for-sale-Los-Alcaceres/
+enslug: 6302357163868160-Detached-Villa-for-sale-Los-Alcázares/
 features:
 - Private Pool Option
 - Roof Terrace
@@ -52,19 +52,19 @@ golf: false
 hauser:
 - Costa Calida
 - Murcia Region
+- Los Alcázares
 - von 200001 bis 300000
 - Neubau
 - Freistehende-Villa
 - Provinz Murcia
-- Los Alcaceres
 heating: false
 homes:
 - Costa Calida
 - Murcia Region
+- Los Alcázares
 - Detached Villa
 - from 200001 to 300000
 - Murcia Province
-- Los Alcaceres
 - New Build
 images:
 - https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w640-rj-e30-l100
@@ -91,9 +91,9 @@ images:
 kdate: '2019-01-21 15:18:18'
 kitchen: offene
 kref: DHN2-AA-Alc4134
-lastedited: '2019-01-29 21:19:07'
+lastedited: '2019-01-30 14:11:19'
 living: 80
-location: Los Alcaceres
+location: Los Alcázares
 luxury: false
 moredetails: ''
 offplan: true
@@ -107,10 +107,10 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
-slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcaceres/
+shas: '{"de": "21b0b2b023dcde821586297084da7f31e28885f2", "en": "aa4481d415c47b51590e1e4ac206bfc85b6ee2f2"}'
+slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 topsix: false
-town: Los Alcaceres
+town: Los Alcázares
 utility: true
 ---
