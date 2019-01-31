@@ -49,18 +49,18 @@ golf: false
 hauser:
 - Costa Calida
 - Murcia Region
+- Villa
 - Los Alcázares
 - Neubau
 - von 100001 bis 200000
 - Provinz Murcia
-- Doppelhaus-Villa
 heating: false
 homes:
 - from 100001 to 200000
 - Costa Calida
 - Murcia Region
+- Villa
 - Los Alcázares
-- Semidetached Villa
 - Murcia Province
 - New Build
 images:
@@ -81,10 +81,10 @@ images:
 - https://lh3.googleusercontent.com/ahp_ErUWCIpwNNdGibZ2upd3jbms2HFofi0XbxwIIv158WLEV_uWzc5APVwWc2Ox9x-pEMYm6AIOtVy938y3=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/UO_KblhAUaqM6IV3klANWa3V5WVE4hcyAwZeyZE6rVhvItlr3gGENHpkUgNYsPXP_Nrx3WfvpXwAXnaJkBO8jQ=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tQGMewaujoSy3NWBBTTHbFVGOsD4BrTjXG6Ai_lGFIqqxY4UP7nknN-IWElwPVR2OsJ0_Z5_CeyDHaTA1dYy=w640-rj-e30-l100
-kdate: '2019-01-30 14:11:54'
+kdate: '2019-01-30 15:02:44'
 kitchen: offene
-kref: SHN2-AD-Alc4133
-lastedited: '2019-01-30 15:02:41'
+kref: SHN2-AE-Alc4133
+lastedited: '2019-01-31 11:20:47'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -100,7 +100,7 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "650134c3488df18c4aa485ea357bc05748618015", "en": "3f7466cc1cfb2de015f02f1bd882cd51fe305545"}'
+shas: '{"de": "259bf3474968568ede559defa8423ad9fdb7b754", "en": "723f9e17bfa4b9ca1374f5c9cb45f3e5a034b326"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 topsix: false
