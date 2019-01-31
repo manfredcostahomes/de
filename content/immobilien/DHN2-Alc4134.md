@@ -52,17 +52,17 @@ golf: false
 hauser:
 - Costa Calida
 - Murcia Region
+- Villa
 - Los Alcázares
 - von 200001 bis 300000
 - Neubau
-- Freistehende-Villa
 - Provinz Murcia
 heating: false
 homes:
 - Costa Calida
 - Murcia Region
+- Villa
 - Los Alcázares
-- Detached Villa
 - from 200001 to 300000
 - Murcia Province
 - New Build
@@ -88,10 +88,10 @@ images:
 - https://lh3.googleusercontent.com/lrPncSCRbCX0lDYK1h46xrojaPClwtMMoJHu615ZjQVKXz0uNIYPbhTaMBw6H0bHDr2fGyshY8g_yVmtedyeNA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tGMjtYAI_GwODB4uC1FtuOpTVTzWSRsJC4YFD-92MJR8jFYCMdef093OL9VHNjxPJ81bYE0atFjuW_VWw_Q=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/6D0OyQgFgNevDW3zEcAUII8Mo9F7C9DiFu9zotscZVAFTInONBv31hqrt-Qy-0w5Ev_r9Sf64uND3eOmTz-8=w640-rj-e30-l100
-kdate: '2019-01-30 14:11:21'
+kdate: '2019-01-30 15:01:53'
 kitchen: offene
-kref: DHN2-AB-Alc4134
-lastedited: '2019-01-30 15:01:51'
+kref: DHN2-AC-Alc4134
+lastedited: '2019-01-31 11:25:50'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -107,7 +107,7 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
-shas: '{"de": "8f4b1f9996772bf821a919fd20e456196062d145", "en": "6e6edad8fc4cbb51e1f93062d69c9ce753bf4e59"}'
+shas: '{"de": "9851493b7f47e7d247c095250bdac95053f4f8cc", "en": "118262958bb3d9c588eea7e5e98f1f7a43995956"}'
 slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 topsix: false
