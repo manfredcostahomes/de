@@ -45,16 +45,16 @@ golf: false
 hauser:
 - Costa Blanca Süd
 - Valencia Region
+- Villa
 - Pilar De La Horadada
 - Neubau
 - von 100001 bis 200000
 - Provinz Alicante
-- Doppelhaus-Villa
 heating: false
 homes:
 - from 100001 to 200000
 - Valencia Region
-- Semidetached Villa
+- Villa
 - Pilar De La Horadada
 - Costa Blanca South
 - Alicante Province
@@ -77,7 +77,7 @@ images:
 kdate: '2019-01-22 12:57:35'
 kitchen: offene
 kref: SHN2-AB-PH0009a
-lastedited: '2019-01-29 21:17:46'
+lastedited: '2019-01-31 11:24:36'
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -93,7 +93,7 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
+shas: '{"de": "2a3312c7ff456c45460d6c33e45dfa5fd3791037", "en": "3af38bf77ce740303793e44510e861a3ca7c9d89"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 topsix: false
