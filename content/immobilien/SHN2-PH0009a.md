@@ -74,10 +74,10 @@ images:
 - https://lh3.googleusercontent.com/pMl2PDG2kdjVxTK0IhIIkCKqdKIRIs33sJyx7uvpwb-PZQksXz8KiRRHzZxMlQEkYlgsN_D6MU62bf8KuOnV=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
-kdate: '2019-01-22 12:57:35'
+kdate: '2019-01-31 11:24:38'
 kitchen: offene
-kref: SHN2-AB-PH0009a
-lastedited: '2019-01-31 11:24:36'
+kref: SHN2-AC-PH0009a
+lastedited: '2019-02-02 14:44:07'
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -93,9 +93,10 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "2a3312c7ff456c45460d6c33e45dfa5fd3791037", "en": "3af38bf77ce740303793e44510e861a3ca7c9d89"}'
+shas: '{"de": "65f8cf2c385ecc0ff614b9dcadd31f62957b4563", "en": "c67b9dd7c4c4a8b5c0a7a15743bd7941badfb486"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
+thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100
 topsix: false
 town: Pilar De La Horadada
 utility: true
