@@ -33,7 +33,7 @@ description: Modern new build semi-villas with a huge solarium in Pilar De La Ho
   pool. Benefits include a large solarium where you can  enjoy all day sun, terrace,
   garden, pre installed A/C, off road parking, and storage. Book  your personal viewing.
 display: true
-enslug: 5074003093880832-Semidetached-Villa-for-sale-Pilar-De-La-Horadada/
+enslug: 5074003093880832-Semidetached-Villa-for-sale-Pilar-de-la-Horadada/
 features:
 - Huge Solarium
 - Near The Beach
@@ -46,7 +46,7 @@ hauser:
 - Costa Blanca Süd
 - Valencia Region
 - Villa
-- Pilar De La Horadada
+- Pilar de la Horadada
 - Neubau
 - von 100001 bis 200000
 - Provinz Alicante
@@ -55,12 +55,12 @@ homes:
 - from 100001 to 200000
 - Valencia Region
 - Villa
-- Pilar De La Horadada
+- Pilar de la Horadada
 - Costa Blanca South
 - Torre de la Horadada
 - Alicante Province
 - New Build
-- Pilar De La Horadada
+- Pilar de la Horadada
 - Torre de la Horadada
 images:
 - https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w640-rj-e30-l100
@@ -80,9 +80,9 @@ images:
 kdate: '2019-01-31 11:24:38'
 kitchen: offene
 kref: SHN2-AC-PH0009a
-lastedited: '2019-02-07 09:01:33'
+lastedited: '2019-02-07 09:19:58'
 living: 90
-location: Pilar De La Horadada
+location: Pilar de la Horadada
 luxury: false
 moredetails: ''
 offplan: true
@@ -96,11 +96,11 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "0fa2efb399391a019690bdc5839ed56cf88ea14a", "en": "54c9d86cdc4aab1fef6e432a90b45b83238c5f27"}'
-slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
+shas: '{"de": "9f8a8550e5c0d0a95bebb79cc5982d858a53a9f0", "en": "ade227a6dc7f4b3fcd351ffeb47043abb2cf81f7"}'
+slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-de-la-Horadada/
 solarium: false
 thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100
 topsix: false
-town: Pilar De La Horadada
+town: Pilar de la Horadada
 utility: true
 ---
