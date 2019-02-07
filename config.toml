@@ -3,13 +3,13 @@ title = "Manfred Costa Blanca Homes"
 relativeURLs = true
 
 [taxonomies]
-  home = "homes"
+  haus = "hauser"
 
 [outputs]
     page = ["json","html"]
     section = ["json"] 
-    home = ["json","html"]
-    contact = ["html"]
-    policy = ["html"]
+    immobilien = ["json","html"]
+    kontakt = ["html"]
+    politik = ["html"]
 
 

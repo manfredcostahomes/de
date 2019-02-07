@@ -1,13 +1,13 @@
-baseurl = "https://mch-en-stage.netlify.com/"
+baseurl = "https://mch-de-stage.netlify.com/"
 title = "Manfred Costa Blanca Homes"
 relativeURLs = true
 
 [taxonomies]
-  home = "homes"
+  immobilie = "immobilien"
 
 [outputs]
     page = ["json","html"]
     section = ["json"] 
-    home = ["json","html"]
-    contact = ["html"]
-    policy = ["html"]
+    immobilie = ["json","html"]
+    kontakt = ["html"]
+    politik = ["html"]

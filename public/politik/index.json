@@ -1,0 +1,47 @@
+{
+    "data" : 
+[
+    
+    {
+    "ref": "<no value>",
+    "price": "<no value>",
+    "ptype" : "<no value>",
+    "plot" : "<no value>",
+    "living" : "<no value>",
+    "location" : "<no value>",
+    "town": "<no value>",
+    "province": "<no value>",
+    "costa": "<no value>",
+    "community": "<no value>",
+    "beds": "<no value>",
+    "baths": "<no value>",
+    "pool": "<no value>",
+    "url": "<no value>",
+    "desc":"",
+    "thumb":"<no value>"
+}
+
+    
+    , {
+    "ref": "<no value>",
+    "price": "<no value>",
+    "ptype" : "<no value>",
+    "plot" : "<no value>",
+    "living" : "<no value>",
+    "location" : "<no value>",
+    "town": "<no value>",
+    "province": "<no value>",
+    "costa": "<no value>",
+    "community": "<no value>",
+    "beds": "<no value>",
+    "baths": "<no value>",
+    "pool": "<no value>",
+    "url": "<no value>",
+    "desc":"",
+    "thumb":"<no value>"
+}
+
+    
+]
+
+}
