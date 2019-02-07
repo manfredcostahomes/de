@@ -65,7 +65,10 @@ homes:
 - Los Alcázares
 - from 200001 to 300000
 - Murcia Province
+- Mar Menor
 - New Build
+- Los Alcázares
+- Mar Menor
 images:
 - https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/dYifUmSe4axRY-0x-S299eRcUru0UiaMp4QkjMLz9XuOp38KuhMtVTUs7A4Gz3HSEYFntExfvh-GMYpLWE0nSg=w640-rj-e30-l100
@@ -91,7 +94,7 @@ images:
 kdate: '2019-01-31 11:25:52'
 kitchen: offene
 kref: DHN2-AD-Alc4134
-lastedited: '2019-02-02 14:46:17'
+lastedited: '2019-02-07 09:09:23'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -107,7 +110,7 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
-shas: '{"de": "ab749c8a117ce1a9dff6ebda9eca4922cf76fc95", "en": "bab652c1fec928164c46746df183ed2d8ab4975e"}'
+shas: '{"de": "747a61bd47339cd960f46f8d7370a0bbd6a8b3bc", "en": "471ff9f26b6a817a986f4e624e747d0011c3ddb1"}'
 slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w400-h240-n-rj-e30-l100
