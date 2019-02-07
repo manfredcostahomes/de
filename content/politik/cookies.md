@@ -3,28 +3,30 @@ title: Cookie Politik
 type: politik
 ---
 
+# Cookie-Richtlinie
 
-# Cookie Policy for manfredcostahomes.com 
+### Was ist ein Cookie?
 
-**What is a cookie?**
+Ein "Cookie" ist eine Information, die im Speicher Ihres Geräts gespeichert ist und aufzeichnet, wie Sie sich auf einer Website bewegen. Wenn Sie diese Website erneut besuchen, können auf der Grundlage der Informationen zu Ihrem letzten Besuch maßgeschneiderte Optionen angezeigt werden . Cookies können auch zur Analyse des Traffics und für Werbe- und Marketingzwecke verwendet werden.
 
-A “cookie” is a piece of information that is stored in your device's storage and which records how you move your way around a website so that, when you revisit that website, it can present tailored options based on the information stored about your last visit. Cookies can also be used to analyse traffic and for advertising and marketing purposes.
+### Cookies werden auf fast allen Websites verwendet und schaden Ihrem Gerät nicht.
 
-Cookies are used by nearly all websites and do not harm your device.
+Wenn Sie prüfen oder ändern möchten, welche Arten von Cookies Sie akzeptieren, kann dies normalerweise in Ihren Browsereinstellungen geändert werden. Sie können Cookies jederzeit blockieren, indem Sie die Einstellung in Ihrem Browser aktivieren, mit der Sie die Einstellung aller oder einiger Cookies ablehnen können. Wenn Sie jedoch Ihre Browsereinstellungen verwenden, um alle Cookies (einschließlich essentieller Cookies) zu blockieren, können Sie möglicherweise nicht auf alle oder Teile unserer Website zugreifen. Erfragen Sie ggf. selbst, wie Sie Cookies in Ihrem Browser entfernen oder blockieren.
 
-If you want to check or change what types of cookies you accept, this can usually be altered within your browser settings. You can block cookies at any time by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. [Learn how to remove or block cookies in your browser](http://www.aboutcookies.org.uk/managing-cookies) 
+### Wie verwenden wir Cookies?
 
-**How do we use cookies?**
+Wir verwenden Cookies, um Ihre Nutzung unserer Website zu verfolgen. Dies ermöglicht uns zu verstehen, wie Sie die Website verwenden und irgendwelche Muster verfolgen in Bezug darauf, wie Sie unsere Website verwenden. Dies hilft uns bei der Entwicklung und Verbesserung unserer Website sowie von Produkten und / oder Dienstleistungen als Reaktion auf das was Sie benötigen oder wollen.
 
-We use cookies to track your use of our website. This enables us to understand how you use the site and track any patterns with regards how you are using our website. This helps us to develop and improve our website as well as products and / or services in response to what you might need or want.
+### Cookies sind entweder:
 
-Cookies are either:
+Sitzungscookies: Diese werden nur während Ihrer Websitzung auf Ihrem Computer gespeichert und automatisch gelöscht, wenn Sie Ihren Browser schließen. In der Regel wird eine anonyme Sitzungs-ID gespeichert, mit der Sie eine Website durchsuchen können, ohne sich bei jeder Seite anmelden zu müssen und es werden aber keinerlei  persönlichen Daten von Ihrem Computer eingesammelt;  oder
 
--   **Session cookies**: these are only stored on your computer during your web session and are automatically deleted when you close your browser – they usually store an anonymous session ID allowing you to browse a website without having to log in to each page but they do not collect any personal data from your computer; or
--  **Persistent cookies**: a persistent cookie is stored as a file on your computer and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again. We use persistent cookies for Google Analytics.
+Dauerhafte Cookies: Ein persistentes dauerhaftes Cookie wird als Datei auf Ihrem Computer gespeichert und bleibt dort, wenn Sie Ihren Webbrowser schließen. Der Cookie kann von der Website gelesen werden, die ihn beim erneuten Besuch dieser Website erstellt hat. Wir verwenden permanente Cookies für Google Analytics.
 
-Cookies can also be categorised as follows:
+### Cookies können auch wie folgt kategorisiert werden:
 
--   **Strictly necessary cookies**: At this time manfredcostahomes.com does not set or make use of any Strictly necessary cookies.
--   **Performance cookies**: We use Google Analytics to help us monitor the performance of manfredcostahomes.com websites These cookies (_ga, _gid) enable us to monitor and improve the performance of our website. For example, they allow us to count visits, identify traffic sources and see which parts of the site are most popular. The cookies from Google Analytics are anonymised. If you decide to block these cookies the website will function normally.
--   **Functionality cookies**: At this time manfredcostahomes.com does not set or make use of any functionality cookies.
+Unbedingt notwendige Cookies: Nein
+
+Leistungscookies: Wir verwenden Google Analytics, um die Leistung der Websites von https://de.manfredcostahomes.com zu überwachen. Diese Cookies (_ga, _gid) ermöglichen es uns, die Leistung unserer Website zu überwachen und zu verbessern. Sie ermöglichen uns beispielsweise, Besuche zu zählen, Zugriffsquellen zu identifizieren und festzustellen, welche Teile der Website am beliebtesten sind. Die Cookies von Google Analytics sind anonymisiert. Wenn Sie diese Cookies blockieren möchten, funktioniert die Website normal.
+
+Funktionalitäts-Cookies: Nein
