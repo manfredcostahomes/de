@@ -683,6 +683,26 @@
 
     
     , {
+    "ref": "APN3-C1101",
+    "price": "235000",
+    "ptype" : "Wohnung",
+    "plot" : "74",
+    "living" : "74",
+    "location" : "Cabo Roig",
+    "town": "Cabo Roig",
+    "province": "Alicante",
+    "costa": "Costa Blanca Süd",
+    "community": "Valencia",
+    "beds": "3",
+    "baths": "2",
+    "pool": "Gemeinschafts",
+    "url": "5746055551385600-Wohnung-zu-verkaufen-Cabo-Roig/",
+    "desc":"Luxury modern stylish Park Residence in the Lomas de Cabo Roig area - some new  build 3 bedrooms apartments with large terraces - views to the communal pool - and  solariums with wide sea views. Situated in a prime location, close to variou",
+    "thumb":"https://lh3.googleusercontent.com/VLV9e9H-oI70DO8DVfCy0BQKim8Ywk4hR3_F6GbsKy4aNXgSploM86YQcLTh0mrWkG60Oyy582CT_Kcza_ns=w400-h240-n-rj-e30-l100"
+}
+
+    
+    , {
     "ref": "DH2-C4199",
     "price": "249000",
     "ptype" : "Freistehende Villa",

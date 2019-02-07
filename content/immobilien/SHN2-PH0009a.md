@@ -47,6 +47,7 @@ hauser:
 - Valencia Region
 - Villa
 - Pilar de la Horadada
+- Torre de la Horadada
 - Neubau
 - von 100001 bis 200000
 - Provinz Alicante
@@ -60,8 +61,6 @@ homes:
 - Torre de la Horadada
 - Alicante Province
 - New Build
-- Pilar de la Horadada
-- Torre de la Horadada
 images:
 - https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/YGOd-BBOIKDlBf6-v7jQn9LD-Ln_Jxly0g26x9cRRmL0JoEtfQFD8VJLIxttwj0Zw6jlzV37ZxrWpq8fIKk=w640-rj-e30-l100
@@ -77,10 +76,10 @@ images:
 - https://lh3.googleusercontent.com/pMl2PDG2kdjVxTK0IhIIkCKqdKIRIs33sJyx7uvpwb-PZQksXz8KiRRHzZxMlQEkYlgsN_D6MU62bf8KuOnV=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
-kdate: '2019-01-31 11:24:38'
+kdate: '2019-02-07 11:21:07'
 kitchen: offene
-kref: SHN2-AC-PH0009a
-lastedited: '2019-02-07 09:19:58'
+kref: SHN2-AD-PH0009a
+lastedited: '2019-02-07 18:05:35'
 living: 90
 location: Pilar de la Horadada
 luxury: false
@@ -96,7 +95,7 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "9f8a8550e5c0d0a95bebb79cc5982d858a53a9f0", "en": "ade227a6dc7f4b3fcd351ffeb47043abb2cf81f7"}'
+shas: '{"de": "c9dfad0b69fcaa1b47623b5a247faeca6936050b", "en": "18446bcfe2bd27b2b85c822d8056e3624d851195"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-de-la-Horadada/
 solarium: false
 thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100

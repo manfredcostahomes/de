@@ -139,6 +139,10 @@
   </url>
   
   <url>
+    <loc>/immobilien/5746055551385600-wohnung-zu-verkaufen-cabo-roig/index.json</loc>
+  </url>
+  
+  <url>
     <loc>/immobilien/5668600916475904-freistehende-villa-zu-verkaufen-cabo-roig/index.json</loc>
   </url>
   
@@ -336,12 +340,32 @@
   </url>
   
   <url>
+    <loc>/hauser/benijofar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/cabo-roig/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/hauser/campoamor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/campoamor-golf/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/castalla/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/ciudad-qesada/</loc>
     <priority>0</priority>
   </url>
   
@@ -375,7 +399,27 @@
   </url>
   
   <url>
+    <loc>/hauser/dehesa-de-campoamor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/do%C3%B1a-pepa/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/el-raso/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/elche/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/gebraucht/</loc>
     <priority>0</priority>
   </url>
   
@@ -395,7 +439,67 @@
   </url>
   
   <url>
+    <loc>/hauser/la-ca%C3%B1ada/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-finca/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-finca-golf/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-marina/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-marquesa/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-marquesa-golf/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-mata/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/la-siesta/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/las-colinas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/las-ramblas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/lo-pagan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/los-alc%C3%A1zares/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/los-altos/</loc>
     <priority>0</priority>
   </url>
   
@@ -405,7 +509,17 @@
   </url>
   
   <url>
+    <loc>/hauser/los-dolses/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/los-montesinos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/mar-menor/</loc>
     <priority>0</priority>
   </url>
   
@@ -430,6 +544,16 @@
   </url>
   
   <url>
+    <loc>/hauser/pinar-de-campoverde/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/playa-flamenca/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/politik/index.json</loc>
     <priority>0</priority>
   </url>
@@ -445,12 +569,32 @@
   </url>
   
   <url>
+    <loc>/hauser/punta-prima/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/reihenhauser/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/hauser/rocio-del-mar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/rojales/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hauser/san-miguel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/san-miguel-de-salinas/</loc>
     <priority>0</priority>
   </url>
   
@@ -465,6 +609,11 @@
   
   <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/hauser/spanish-village/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -494,6 +643,16 @@
   
   <url>
     <loc>/hauser/villamartin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/villamartin-golf/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/hauser/villamart%C3%ADn/</loc>
     <priority>0</priority>
   </url>
   

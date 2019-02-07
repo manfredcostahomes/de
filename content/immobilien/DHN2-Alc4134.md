@@ -57,6 +57,7 @@ hauser:
 - von 200001 bis 300000
 - Neubau
 - Provinz Murcia
+- Mar Menor
 heating: false
 homes:
 - Costa Calida
@@ -67,8 +68,6 @@ homes:
 - Murcia Province
 - Mar Menor
 - New Build
-- Los Alcázares
-- Mar Menor
 images:
 - https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/dYifUmSe4axRY-0x-S299eRcUru0UiaMp4QkjMLz9XuOp38KuhMtVTUs7A4Gz3HSEYFntExfvh-GMYpLWE0nSg=w640-rj-e30-l100
@@ -91,10 +90,10 @@ images:
 - https://lh3.googleusercontent.com/lrPncSCRbCX0lDYK1h46xrojaPClwtMMoJHu615ZjQVKXz0uNIYPbhTaMBw6H0bHDr2fGyshY8g_yVmtedyeNA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tGMjtYAI_GwODB4uC1FtuOpTVTzWSRsJC4YFD-92MJR8jFYCMdef093OL9VHNjxPJ81bYE0atFjuW_VWw_Q=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/6D0OyQgFgNevDW3zEcAUII8Mo9F7C9DiFu9zotscZVAFTInONBv31hqrt-Qy-0w5Ev_r9Sf64uND3eOmTz-8=w640-rj-e30-l100
-kdate: '2019-01-31 11:25:52'
+kdate: '2019-02-07 11:21:07'
 kitchen: offene
-kref: DHN2-AD-Alc4134
-lastedited: '2019-02-07 09:09:23'
+kref: DHN2-AE-Alc4134
+lastedited: '2019-02-07 18:07:13'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -110,7 +109,7 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
-shas: '{"de": "747a61bd47339cd960f46f8d7370a0bbd6a8b3bc", "en": "471ff9f26b6a817a986f4e624e747d0011c3ddb1"}'
+shas: '{"de": "437e6054fc5aa2f9785b73e0e339ee51d99f04f2", "en": "5d3db62e8d8456bc514df7623f174922d96141d8"}'
 slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w400-h240-n-rj-e30-l100

@@ -1,6 +1,6 @@
 ---
-title: Cookie Policy
-type: policy
+title: Cookie Politik
+type: politik
 ---
 
 

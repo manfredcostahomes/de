@@ -1,4 +1,4 @@
 ---
 title: Search Page
-type: search
+type: suche
 ---

@@ -16,5 +16,5 @@ Plaza de las Costas 46
 03170 Rojales - Ciudad Qesada
 (Alicante - Costa Blanca)
 España - Spain - Spanien'
-type: contact
+type: kontakt
 ---
