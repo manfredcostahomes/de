@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mch-en-stage.netlify.com/"
 title = "Manfred Costa Blanca Homes"
 relativeURLs = true
 
@@ -11,5 +11,3 @@ relativeURLs = true
     home = ["json","html"]
     contact = ["html"]
     policy = ["html"]
-
-
