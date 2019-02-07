@@ -62,7 +62,10 @@ homes:
 - Villa
 - Los Alcázares
 - Murcia Province
+- Mar Menor
 - New Build
+- Los Alcázares
+- Mar Menor
 images:
 - https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/2FAV8Anl6uCQWnRoIMweoP7znYrRYcDTWEChVrwnEF4b08FtjawAcR2x7-hwRkgcdVPh4Z1lQfVlL3tKdjOg=w640-rj-e30-l100
@@ -81,10 +84,10 @@ images:
 - https://lh3.googleusercontent.com/ahp_ErUWCIpwNNdGibZ2upd3jbms2HFofi0XbxwIIv158WLEV_uWzc5APVwWc2Ox9x-pEMYm6AIOtVy938y3=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/UO_KblhAUaqM6IV3klANWa3V5WVE4hcyAwZeyZE6rVhvItlr3gGENHpkUgNYsPXP_Nrx3WfvpXwAXnaJkBO8jQ=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tQGMewaujoSy3NWBBTTHbFVGOsD4BrTjXG6Ai_lGFIqqxY4UP7nknN-IWElwPVR2OsJ0_Z5_CeyDHaTA1dYy=w640-rj-e30-l100
-kdate: '2019-01-31 11:20:49'
+kdate: '2019-02-05 15:56:47'
 kitchen: offene
-kref: SHN2-AF-Alc4133
-lastedited: '2019-02-02 14:26:43'
+kref: SHN2-AG-Alc4133
+lastedited: '2019-02-07 10:25:04'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -100,7 +103,7 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "566312acd8f8a32324f8982abb13d55bc6da815c", "en": "8a4fe96577b35eb162c254cbaff83d131c4fd895"}'
+shas: '{"de": "86526cf8b836684767c3a9a8b6861b8b7aede958", "en": "febb719d074e26ff8407422f8dc74aaa68571bd6"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w400-h240-n-rj-e30-l100
