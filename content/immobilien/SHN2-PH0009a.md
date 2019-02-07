@@ -57,8 +57,11 @@ homes:
 - Villa
 - Pilar De La Horadada
 - Costa Blanca South
+- Torre de la Horadada
 - Alicante Province
 - New Build
+- Pilar De La Horadada
+- Torre de la Horadada
 images:
 - https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/YGOd-BBOIKDlBf6-v7jQn9LD-Ln_Jxly0g26x9cRRmL0JoEtfQFD8VJLIxttwj0Zw6jlzV37ZxrWpq8fIKk=w640-rj-e30-l100
@@ -77,7 +80,7 @@ images:
 kdate: '2019-01-31 11:24:38'
 kitchen: offene
 kref: SHN2-AC-PH0009a
-lastedited: '2019-02-02 14:44:07'
+lastedited: '2019-02-07 09:01:33'
 living: 90
 location: Pilar De La Horadada
 luxury: false
@@ -93,7 +96,7 @@ province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "65f8cf2c385ecc0ff614b9dcadd31f62957b4563", "en": "c67b9dd7c4c4a8b5c0a7a15743bd7941badfb486"}'
+shas: '{"de": "0fa2efb399391a019690bdc5839ed56cf88ea14a", "en": "54c9d86cdc4aab1fef6e432a90b45b83238c5f27"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-De-La-Horadada/
 solarium: false
 thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100
