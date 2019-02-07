@@ -54,6 +54,7 @@ hauser:
 - Neubau
 - von 100001 bis 200000
 - Provinz Murcia
+- Mar Menor
 heating: false
 homes:
 - from 100001 to 200000
@@ -64,8 +65,6 @@ homes:
 - Murcia Province
 - Mar Menor
 - New Build
-- Los Alcázares
-- Mar Menor
 images:
 - https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/2FAV8Anl6uCQWnRoIMweoP7znYrRYcDTWEChVrwnEF4b08FtjawAcR2x7-hwRkgcdVPh4Z1lQfVlL3tKdjOg=w640-rj-e30-l100
@@ -87,7 +86,7 @@ images:
 kdate: '2019-02-05 15:56:47'
 kitchen: offene
 kref: SHN2-AG-Alc4133
-lastedited: '2019-02-07 10:25:04'
+lastedited: '2019-02-07 17:54:48'
 living: 80
 location: Los Alcázares
 luxury: false
@@ -103,7 +102,7 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "86526cf8b836684767c3a9a8b6861b8b7aede958", "en": "febb719d074e26ff8407422f8dc74aaa68571bd6"}'
+shas: '{"de": "93fd2a368fbbc9e6af14b62c701f653d0458f618", "en": "f2d8a934079f22bc62afb8ab42ffe9272b25c022"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcázares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w400-h240-n-rj-e30-l100
