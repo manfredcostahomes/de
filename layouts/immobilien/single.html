@@ -9,7 +9,7 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="container"></div>
+<div class="container">
   <div class="columns is-multiline is-desktop is-gapless">
       <div class="column is-three-quarters-desktop">
           <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
