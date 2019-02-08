@@ -12,7 +12,8 @@
 <div class="container">
   <div class="columns is-multiline is-desktop is-gapless">
       <div class="column is-three-quarters-desktop">
-          <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>
+         <!-- <div class="navbar-item xcolumn-top column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} €{{ .Params.price | lang.NumFmt 0 }}</div>-->
+          <div class="navbar-item column is-vcentered is-size-4 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }}{{if eq .Params.salestage 0 }} €{{ .Params.price | lang.NumFmt 0 }}{{ end }}{{if eq .Params.salestage 2 }} <button class="button is-medium is-danger is-sold-single"> V E R K A U F T </button>{{ end }} {{if eq .Params.salestage 1 }} <button class="button is-medium is-warning is-offer-single"> R E S E R V I E R T </button>{{ end }} </div>
           <amp-carousel width="150" height="100" layout="responsive" type="slides" autoplay delay="3200"> 
               {{ range .Params.images }}
               <amp-img src="{{ . }}" width="150" height="80" layout="responsive"></amp-img>

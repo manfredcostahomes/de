@@ -20,8 +20,8 @@
                 {{ $location := .Params.location }}
            
                 <div class="rubrunimage withbuttons" style='min-height:300px;background-size: cover;background-repeat:no-repeat;background:cover;background-image:url({{ replace .Params.thumb "w640" "w400-h240-n" }});'>
-                    {{if eq $salestage 2 }}<button class="button is-medium is-danger is-sold"> S O L D </button>{{ end }}
-                    {{if eq $salestage  1 }}<button class="button is-medium is-warning is-offer"> R E S E R V E D </button>{{ end }}
+                    {{if eq $salestage 2 }}<button class="button is-medium is-danger is-sold"> V E R K A U F T </button>{{ end }}
+                    {{if eq $salestage  1 }}<button class="button is-medium is-warning is-offer"> R E S E R V I E R T </button>{{ end }}
                     {{if eq $salestage  0 }}<button class="button is-medium is-price"> {{ $ptype}} €{{ lang.NumFmt 2 $intprice "- . ," }} </button>{{ end }}
                 </div>        
 
