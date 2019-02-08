@@ -7,10 +7,10 @@ body {
     min-height: 100vh;
    flex-direction: column;
  }
- .navbar-burger{
+ /*.navbar-burger{
  height: 6.25rem;
  width: 9.25rem;
- }
+ }*/
  #propdetail{max-width:1200px}
  #proptitle{min-height: 8vh;background-color:black; color:white;font-size: 2rem;padding: 8px}
  #proptitle ref{display: inline;}
