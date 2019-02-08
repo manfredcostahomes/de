@@ -64,13 +64,21 @@
     <!--</div>-->
     <!--</div>-->
   <!--<div class="columns is-gapless">-->
-      <div class="column is-three-quarters-desktop">
+    <div class="column is-three-quarters-desktop">
       <div class="columns is-mobile">
       <!-- <div class="column  is-one-quarter is-vcentered is-size-5 has-text-centered has-text-white has-background-mchbrown">{{ .Params.ptype }} </div> -->
-      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Schlafzimmer</span><br/> {{ .Params.beds }} </div>
-      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Badezimmer</span><br/>  {{ .Params.baths }} </div>
-      <div class="column  is-one-third is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"> Wohnfläche</span><br/>  {{ .Params.living }} m²</div>
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/bed.png"/></span><br/> {{ .Params.beds }} </div>
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/bath.png"/></span><br/>  {{ .Params.baths }} </div>
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/pool.png"/></span><br/>  {{ .Params.pool }}</div>
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/plan.png"/></span><br/>  {{ .Params.living }} m²</div>    
+      {{ if eq .Params.living .Params.plot}}
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/plot.png"/></span><br/></div>
+      {{ else }}
+      <div class="column  is-one-fifth is-vcentered has-text-centered has-text-white has-background-mchbrown "><span class="is-size-7"><img src="../../img/plot.png"/></span><br/>  {{ .Params.plot }} m²</div>
+      {{ end }}
+      
     </div>
+  </div>
   <!--</div>
   </div>-->
   <div class="section">
