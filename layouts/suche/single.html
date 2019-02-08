@@ -59,7 +59,7 @@ function prepqsmulti(QSPlaces){
   };
 //get the querystring
 
-fetch('/property/index.json')
+fetch('/immobilien/index.json')
   .then(function(response) {
     return response.json();
   })
@@ -156,7 +156,7 @@ fetch('/property/index.json')
                                 </div>
                             </div>
                     <p class="label--text-color card__description el-mb-clear">{%=o.desc%}...</p>
-                    <button class="button is-medium is-info see-details">See details</button>
+                    <button class="button is-medium is-info see-details">Siehe Einzelheiten</button>
                 </div>              
             </div>
         </div>

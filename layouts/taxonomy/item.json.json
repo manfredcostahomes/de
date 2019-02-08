@@ -13,6 +13,6 @@
     "baths": "{{ .Params.baths }}",
     "pool": "{{ .Params.pool }}",
     "url": "{{ .Params.slug }}",
-    "desc":"{{ substr .Params.description 0 240 }}",
+    "desc":"{{ substr .Params.DE 0 240 }}",
     "thumb":"{{ .Params.thumb }}"
 }
