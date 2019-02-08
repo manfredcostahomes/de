@@ -1,6 +1,7 @@
 {
     "ref": "{{ .Params.ref }}",
     "price": "{{ .Params.price }}",
+    "salestage": "{{ .Params.salestage }}",
     "ptype" : "{{ .Params.ptype }}",
     "plot" : "{{ .Params.plot }}",
     "living" : "{{ .Params.living }}",
