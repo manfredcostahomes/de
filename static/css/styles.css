@@ -105,3 +105,5 @@ ul#propfeatures li {
 #contact td:first-child { text-align: center; background-color:#8b684a;color: white; }
 .policy{min-height: 85vh; padding: 3rem 0rem;}
 .policy h1{font-size:3rem;}
+.policy h3{font-size:1.5rem;}
+.policy p{padding: 12px;}

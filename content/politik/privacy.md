@@ -9,7 +9,7 @@ type: politik
 
 ### 1. EINLEITUNG
 
-Diese Datenschutzerklärung informiert Sie darüber, wie wir Ihre personenbezogenen Daten durch Ihre Nutzung unserer Website erheben und verarbeiten . https:  [//de.manfredcostahomes.com/](https://www.manfredcostahomes.com/)
+Diese Datenschutzerklärung informiert Sie darüber, wie wir Ihre personenbezogenen Daten durch Ihre Nutzung unserer Website erheben und verarbeiten .   [https://de.manfredcostahomes.com/](https://www.manfredcostahomes.com/)
 
 Indem Sie uns Ihre Daten zur Verfügung stellen, garantieren Sie uns, dass Sie über 13 Jahre alt sind.
 
