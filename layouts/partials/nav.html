@@ -28,7 +28,7 @@
               <a href="/hauser/gebraucht/" class="navbar-item has-text-black is-uppercase ">Gebrauchtimmobilien</a>
               <a href="/hauser/neubau/" class="navbar-item has-text-black is-uppercase ">Neubauimmobilien</a>
               <a href="/kontakt/" class="navbar-item has-text-black is-uppercase ">Kontakt</a>
-              {{ if (eg .Permalink "https://de.manfredcostahomes.com/index.json") }}
+              {{ if (eq .Permalink "https://de.manfredcostahomes.com/index.json") }}
                 <a href='https://www.manfredcostahomes.com' class="navbar-item has-text-black is-uppercase "><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> Deutsch</a>
               {{ else }}
                 <a href='https://www.manfredcostahomes.com{{ replace .Permalink "https:/de.manfredcostahomes.com" "" }}' class="navbar-item has-text-black is-uppercase "><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> Deutsch</a>
