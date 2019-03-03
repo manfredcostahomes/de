@@ -2,8 +2,118 @@
   HUGO_VERSION = "0.47"
 
 [[redirects]]
-from = "/homes/*-province"
-to = "/hauser/:splat-provinz"
+from = "/homes/townhouse"
+to = "/hauser/reihenhaus"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/villa"
+to = "/hauser/villa"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/apartment"
+to = "/hauser/wohnung"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/alicante-province"
+to = "/hauser/provinz-alicante"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/costa-blanca-south"
+to = "/hauser/costa-blanca-süd"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/costa-blanca-north"
+to = "/hauser/costa-blanca-nord"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/costa-blanca-calida"
+to = "/hauser/costa-calida"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/murcia-region"
+to = "/hauser/murcia-region"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/valencia-region"
+to = "/hauser/valencia-region"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/new-build/"
+to = "/hauser/neubau/"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/resale/"
+to = "/hauser/gebraucht/"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-0-to-100000"
+to = "/hauser/von-0-bis-100000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-100001-to-200000"
+to = "/hauser/von-100001-bis-200000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-200001-to-300000"
+to = "/hauser/von-200001-bis-300000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-300001-to-400000"
+to = "/hauser/von-300001-bis-400000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-400001-to-500000"
+to = "/hauser/von-400001-bis-500000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-500001-to-600000"
+to = "/hauser/von-500001-bis-600000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-600001-to-700000"
+to = "/hauser/von-600001-bis-700000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-700001-to-800000"
+to = "/hauser/von-700001-bis-800000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-800001-to-900000"
+to = "/hauser/von-800001-bis-900000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/from-900001-to-1000000"
+to = "/hauser/von-900001-bis-1000000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/more-than-1000000"
+to = "/hauser/mehr-als-1000000"
+status = 301
+force = false
+[[redirects]]
+from = "/homes/*"
+to = "/hauser/:splat"
 status = 301
 force = false
 [[redirects]]
