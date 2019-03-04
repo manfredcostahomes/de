@@ -33,7 +33,7 @@ description: Modern new build semi-villas with a huge solarium in Pilar De La Ho
   pool. Benefits include a large solarium where you can  enjoy all day sun, terrace,
   garden, pre installed A/C, off road parking, and storage. Book  your personal viewing.
 display: true
-enslug: 5074003093880832-Semidetached-Villa-for-sale-Pilar-de-la-Horadada/
+enslug: /property/5074003093880832-Semidetached-Villa-for-sale-Pilar-de-la-Horadada/
 features:
 - Huge Solarium
 - Near The Beach

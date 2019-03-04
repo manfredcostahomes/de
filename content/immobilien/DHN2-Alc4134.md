@@ -37,7 +37,7 @@ description: Modern top quality seafront detached villas located only ca. 800 m 
   offer from renowned furniture suppliers. Modern style well  priced and full service
   included. Los Alcázares is near several golf courses, huge shopping  malls and more.
 display: true
-enslug: 6302357163868160-Detached-Villa-for-sale-Los-Alcázares/
+enslug: /property/6302357163868160-Detached-Villa-for-sale-Los-Alcázares/
 features:
 - Private Pool Option
 - Roof Terrace

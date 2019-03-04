@@ -34,7 +34,7 @@ description: Modern semi detached beach villas - just 800 m to sea and sandy bea
   more along the Mar Menor. Ask also for some  detached villas in this residence /
   plots of 350 sqm !
 display: true
-enslug: 5147289865682944-Semidetached-Villa-for-sale-Los-Alcázares/
+enslug: /property/5147289865682944-Semidetached-Villa-for-sale-Los-Alcázares/
 features:
 - Roof Terrace
 - Garden
