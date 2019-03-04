@@ -17,4 +17,5 @@ Plaza de las Costas 46
 (Alicante - Costa Blanca)
 España - Spain - Spanien'
 type: kontakt
+enslug: /contact/
 ---

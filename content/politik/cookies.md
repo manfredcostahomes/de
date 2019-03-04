@@ -1,6 +1,7 @@
 ---
 title: Cookie Politik
 type: politik
+enslug: /policy/cookies/
 ---
 
 # Cookie-Richtlinie

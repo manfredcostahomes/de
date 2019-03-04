@@ -1,4 +1,5 @@
 baseurl = "/"
+host = "https://de.manfredcostahomes.com/"
 title = "Manfred Costa Blanca Homes"
 relativeURLs = true
 
