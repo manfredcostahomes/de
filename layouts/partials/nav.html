@@ -29,11 +29,11 @@
               <a href="/hauser/neubau/" class="navbar-item has-text-black is-uppercase ">Neubauimmobilien</a>
               <a href="/kontakt/" class="navbar-item has-text-black is-uppercase ">Kontakt</a>
               {{ if (isset .Params "enslug" ) }}
-              <a href='https://www.manfredcostahomes.com{{ .Params.enslug }}' class="navbar-item has-text-black is-uppercase paramsenslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> Deutsch</a>
+              <a href='https://www.manfredcostahomes.com{{ .Params.enslug }}' class="navbar-item has-text-black is-uppercase paramsenslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ else if (in .Permalink "index.json") }}
               <a href='https://www.manfredcostahomes.com' class="navbar-item has-text-black is-uppercase indexjson"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> Deutsch</a>
               {{ else }}
-              <a href='https://www.manfredcostahomes.com{{ replace .Permalink .Site.Params.host ""}}' class="navbar-item has-text-black is-uppercase else"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> Deutsch</a>
+              <a href='https://www.manfredcostahomes.com{{ replace .Permalink .Site.Params.host ""}}' class="navbar-item has-text-black is-uppercase else"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ end }}
             </div>
           </div>
