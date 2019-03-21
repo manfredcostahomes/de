@@ -1,0 +1,14 @@
+baseurl = "/"
+host = "https://mch-de-stage.netlify.com/"
+title = "Manfred Costa Blanca Homes"
+relativeURLs = true
+
+[taxonomies]
+  immobilie = "immobilien"
+
+[outputs]
+    page = ["json","html"]
+    section = ["json"] 
+    immobilie = ["json","html"]
+    kontakt = ["html"]
+    politik = ["html"]

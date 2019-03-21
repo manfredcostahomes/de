@@ -1,0 +1,39 @@
+<nav class="navbar">
+        <div class="container">
+          <div class="navbar-brand">
+                <a href="/"><figure class="navbar-item image">
+                        <img src="/img/mch-logo-wide-40.svg" style="max-height: 20rem;" alt="manfred costa homes"/>
+                    </figure></a>
+            <span class="navbar-burger burger" data-target="navMenu">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+            </span>
+          </div>
+          <div id="navMenu" class="navbar-menu pl-{{ .Permalink }} pe-{{ .Params.enslug }}">
+            <div class="navbar-end">
+              <a href="/hauser/gebraucht/" class="navbar-item has-text-black is-uppercase ">Gebrauchtimmobilien</a>
+              <a href="/hauser/neubau/" class="navbar-item has-text-black is-uppercase ">Neubauimmobilien</a>
+              <a href="/kontakt/" class="navbar-item has-text-black is-uppercase ">Kontakt</a>
+              {{ if (isset .Params "enslug" ) }}
+              <a href='https://www.manfredcostahomes.com{{ .Params.enslug }}' class="navbar-item has-text-black is-uppercase paramsenslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
+              {{ else if (in .Permalink "index.json") }}
+              <a href='https://www.manfredcostahomes.com' class="navbar-item has-text-black is-uppercase indexjson"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
+              {{ else }}
+              <a href='https://www.manfredcostahomes.com{{ replace .Permalink .Site.Params.host ""}}' class="navbar-item has-text-black is-uppercase else"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </nav>
+      <script type="text/javascript">
+        (function() {
+          var burger = document.querySelector('.burger');
+          var nav = document.querySelector('#'+burger.dataset.target);
+  
+          burger.addEventListener('click', function(){
+            burger.classList.toggle('is-active');
+            nav.classList.toggle('is-active');
+          });
+        })();
+      </script>
