@@ -22,7 +22,10 @@ community: Valencia
 costa: Costa Blanca Nord
 created: '2019-04-02 11:45:52'
 currency: null
-defeatures: []
+defeatures:
+- Seeblick
+- Strand 400m
+- Privater Parkplatz
 description: Luxury new build seaview apartments at the summit of the “Cumbre del
   Sol” next to Benitachell and  the famous Moraira - really a unique location just
   400 meters from the Mediterranean Sea - in the heart of the  beautiful Northern
@@ -37,7 +40,10 @@ description: Luxury new build seaview apartments at the summit of the “Cumbre 
   Serious viewings at any time. Arrange your personal appointment.
 display: true
 enslug: /property/5635698069602304-Apartment-for-sale-Moraira/
-features: []
+features:
+- Sea view
+- Beach 400m
+- Private parking
 finca: false
 fireplace: false
 frequency: sale
@@ -85,10 +91,10 @@ images:
 - https://lh3.googleusercontent.com/xNgs1EZQzegn_zj5OWuYhMH3Ysyzza4vO3oEE7CJCcP5bc9-Uzw9SL2U1kjRm2mnzkpVLnR-f7RiM12cB3ng_w=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/yms6ojvryPAhtLPxDBa4xwChrK3L9G7D1bH6cl2fyv0CrzzYmlaS6VY3nyg9GzsOVozeLTsOsYtd-CRUyuZkSg=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/eTdZEv0Zuz0cpDnsk9C2hpDotgf14S1mgx0wh4qYnl1uWQC5PA0nLZD2DkM_OeJgphyMypPUGIJfmTO-7kfi=w640-rj-e30-l100
-kdate: '2019-04-02 11:45:52'
+kdate: '2019-04-02 11:46:03'
 kitchen: offene
-kref: APN2-AA-CUM0021
-lastedited: '2019-04-02 11:45:57'
+kref: APN2-AB-CUM0021
+lastedited: '2019-04-02 17:06:35'
 living: 132
 location: Moraira
 luxury: false
@@ -104,7 +110,8 @@ province: Alicante
 ptype: Wohnung
 ref: APN2-CUM0021
 salestage: 0
-shas: '{''en'': ''nosha'',''de'': ''nosha'',''pcbs'': ''nosha''}'
+shas: '{"de": "33009fbe644ea80ef9bddac13fa64263a68d3c22", "en": "7ed1f7e55ccf23e73600b31ab73b558646c85ee7",
+  "pcbs": "7ed1f7e55ccf23e73600b31ab73b558646c85ee7"}'
 slug: 5635698069602304-Wohnung-zu-verkaufen-Moraira/
 solarium: false
 thumb: https://lh3.googleusercontent.com/HmJYHGqpxTEuWDRH5IJwoutFoCXHLZ0BUr4wGUrSK_ojciSZvL0NDRkhTVFG_LrXge3TGq1QqzH3tyIeGIzZSw=w400-h240-n-rj-e30-l100
