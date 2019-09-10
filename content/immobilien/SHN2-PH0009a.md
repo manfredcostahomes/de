@@ -11,6 +11,7 @@ DE: Diese modernen, neu erbauten semi-Villen befinden sich in Pilar De La Horada
   Sie den ganzen Tag Sonne  genießen können, vorinstallierte Klimaanlagen, Parkplätze
   abseits der Straße und Abstellraum. Termine jederzeit.  Fragen Sie.
 ES: ES
+FR: FR
 aircon: true
 balconies: '1'
 baths: 2
@@ -40,24 +41,25 @@ features:
 finca: false
 fireplace: false
 frequency: sale
+frfeatures: []
 furnished: Teilmöbliert
 golf: false
 hauser:
 - Costa Blanca Süd
 - Valencia Region
 - Villa
+- von 200001 bis 300000
 - Pilar de la Horadada
 - Torre de la Horadada
 - Neubau
-- von 100001 bis 200000
 - Provinz Alicante
 heating: false
 homes:
-- from 100001 to 200000
 - Valencia Region
 - Villa
 - Pilar de la Horadada
 - Costa Blanca South
+- from 200001 to 300000
 - Torre de la Horadada
 - Alicante Province
 - New Build
@@ -76,10 +78,10 @@ images:
 - https://lh3.googleusercontent.com/pMl2PDG2kdjVxTK0IhIIkCKqdKIRIs33sJyx7uvpwb-PZQksXz8KiRRHzZxMlQEkYlgsN_D6MU62bf8KuOnV=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
-kdate: '2019-02-07 11:21:07'
+kdate: '2019-09-02 18:00:01'
 kitchen: offene
-kref: SHN2-AD-PH0009a
-lastedited: '2019-02-07 18:05:35'
+kref: SHN2-AX-PH0009a
+lastedited: '2019-09-10 11:43:52'
 living: 90
 location: Pilar de la Horadada
 luxury: false
@@ -90,12 +92,13 @@ penthouse: false
 pid: 5074003093880832
 plot: 109
 pool: privates
-price: 189900
+price: 229900
 province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "c9dfad0b69fcaa1b47623b5a247faeca6936050b", "en": "18446bcfe2bd27b2b85c822d8056e3624d851195"}'
+shas: '{"de": "a0b8c41f9b868170ac6bba4b71345379c957a910", "en": "f82611062b8ed96628de73e8741705fa7476967f",
+  "pcbs": "f82611062b8ed96628de73e8741705fa7476967f"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-de-la-Horadada/
 solarium: false
 thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100
