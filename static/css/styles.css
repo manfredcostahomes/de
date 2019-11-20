@@ -107,3 +107,7 @@ ul#propfeatures li {
 .policy h1{font-size:3rem;}
 .policy h3{font-size:1.5rem;}
 .policy p{padding: 12px;}
+
+/* folgen widget */
+.sharemch {z-index: 8000; position: fixed; right: 4px; bottom: 66px; width: 50px; background-color: #fff;} 
+.share-icon {width: 50px;height:50px;padding: 8px;}.follow{font-size: 9px;}
