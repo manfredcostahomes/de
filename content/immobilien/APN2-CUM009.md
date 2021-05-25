@@ -10,6 +10,7 @@ DE: JARDINES RESIDENZ - Luxus-Neubau-Apartments mit Meerblick auf dem Gipfel des
   Traumwohnung.  Seriöse Besichtigungen jederzeit möglich. Vereinbaren Sie Ihren persönlichen
   Termin.
 ES: ES
+FR: FR
 aircon: true
 balconies: '1'
 baths: 1
@@ -44,6 +45,7 @@ features:
 finca: false
 fireplace: false
 frequency: sale
+frfeatures: []
 furnished: Möbeloptionen
 golf: false
 hauser:
@@ -68,40 +70,40 @@ homes:
 - Alicante Province
 - New Build
 images:
-- https://lh3.googleusercontent.com/kKq-34okDJD7eXzGafWy_XAHadUl5QIy7v_grDghxegkMyJvYMc-jaFfTXs1wQlQsYNX_3Unk8En3X0-F_8z=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/obHyin4g6ssINi-dL70MRWQgtXIF3lu8sTaADuIiTxxFM_QTbmvb1il2SgF69A3gTd-TGvUz0jhAWSPybnkZ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/_0XEdKfUs_j6GraDgABsAp776sRvG3GeO6a5tBcKMQSJ4aMbT3FapXg45_zdJmZYZtYPDjaJaUHuI2ARJg=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/9r6-BHQ4dSzUho-jy_l8jWXkyi0CI91GeFqETltFsIyBivf_yyMG_VTiBrkbWTPsihfRCpMuCNTN_xqrY9E=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/8ck0q_m8gC1XxOG5filirTsYZG_dGkPyd8TgPQvvFZu4JMzCqVasD6nXh_xYkqpUWdPwZ7LXrjQ0Ng34ReHn=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/6ap921hxHmM6uhMlxqhKk0VowdN1kYJU7Ae0mNIJqpyffFMbhRYfe7QO4CvYiUc1sv3HQkrA7x1hn8ahNQI=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/_jSYlmtULPXR2XbQcYs8XZMSzHxyZQsM8AFtGpxstCivgw0fatTe4QrRwvG8wfsEorra3tZY2cu5kb5cqdOPNQ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/rVN2rBkQDr_4twh6elU-uXntAoqfbDNtLliuMtHCAyIFlpFJyNAtGy211MJ2mXR-6VIh3oNQaKxaCbM02YYrzQ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/Nw6tBfUNLS-3VrM4S3fnQ7Ylju46q-Dxckfn0HoLpeAK_kjLVd44aINqO1CUn1fVHE-h52UphKHeF6Xo-kk=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/wmfXWYJYYSCZIyjuqp5Qe-XzBCAuminU-eXMN-N_8jd9RiNu-aDZUoHxs4rFeTblo_ZrudgxVTHaYoi_MK4a=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/Bt58d2cXGgvgTAzGUWKeTqOHiYxesf9yy3CRN8T_HnpQSxR7XQb0aOTtVFIF3L37t8KL3Sv7taOKublH0wU=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/Dpa2f372NjkWxpqjqy8g0Cy5Kf9IV9N7bWkxT5FVNfrlbVwBiy6mepnTVYkChMcqpeujwHcd9rsbULNfJ6R6=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/YiobaPAEOws_Kswz020qdzv2SGipNCKhkT-PaEhwSF-vb4N1KHh4M10pX41MQL72U78o65cPPEl9ui8zNgOC=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/0Qb8-6fGnylZsfTAW27EZIwtzL0mXH3EwTjddJO5NezVpBme2khk5QGMyeDJCDo3NmA0l639xlWbFwtn55bI=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/_bvbF6urNbcZXUCEBCqb4HAiovUxdmhB6fj5um4EZUbQogI7k95ua6buiNM8gk4_FSbz_x0b4ImPm6DMh7vadw=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/OVp2g_dOCbxk0Xwmgq1BB0F6HNDhfaU1GlAVfBEfqgCwLKDwBTl5os7inmTcK87IM1x_m71DaQn5q4Yo3yZ6Kw=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/D0QcDGXKxhmCrcx5RousFtiFZdYjxSGsjKeWzeF767X0dMBQptsXiJMTETKq7lPGbXEoqmrB1GWzjXoPEzOJsA=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/mEtn30a_hsXvcdkf4GQsbwKNkcg54y4nwb96xSWkCf2DeBQmbYv5d7iJG4_z1wIv8ICvaDTSAsJ8TOZbiZmJ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/_AAQBZppvz36XD8JbifVvFdPB0_lXDhrYqP7hF_e5GLfp6YhQUcKDjc8VgHyAGXM2f4Lk6ZuApG7I0l9-c8r=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/nSanPotwKtNJSgGC2P5-K7GgChxeCHIAo3VWEUL3513e15nISdjQJO4VFcCy3b9E9fP-4waa9jkO8TFVuuI=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/T4tH8nuTDifNJQmg0pEMfI1FtnGNsBVqpKVaXMDU3_1EM5uMs4h4O-3QaRp_WGvIQDaHfM5fK8EJFXoeoC5S=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/K0N6Uij6wZxY0z-TCra5GkqtnR8jEKjKF5ubujxB-gn-ln3ctV9XeOBo5mBY_NGJaWEOwTD9BfeXXu2PIyPTgA=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/UaxsFiMKzVHk1woxLOacijAuroDcdS-uhY898hOyFXnBrTkxsn5DWRDkdSSidVh2m0zj6dZvrrN5zwnqDHCifw=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/dj2FbqxsmUGVNOHIa9-UtxOUF7OmlF9OMXl0E2gAawg8hIE6YXH0n-fQnk9JOEJ46chQ6w7DBSmogGT6uSBU=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/gf1Q90dFT8LZx9AL6qnT2Q8CCkSxvHRH2OF4EgUf4KwItucOqtzGQnXC7QnQP10jjL5i3KZaSGk4NnqJ3zY=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/k3VIZLe8Bi7uE7dOeVaROeoNYLEWnFojaduJs7OQ_Olue20KoXnlYcc8NiIIT_sbibyyGkPwsWaOBpLw7I7enA=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/kLKDOR77HA5qUI5pP9AnLbHaveAm4w-q0afZs5kJWQHEftBkprCEFn24Xldcu8wfwkjkqJ0Arw1EBoy_l6A=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/JnZkY4FadxiYK3H6dFIqrTLgHvobDOYxBazn7jnbo759VYyKe_egheXX0KhdU_CyscYMCOcsXJAdm05ix4hb=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/q2WEPUWFWjbHovBbmC4iPhzEKIggBDu8xXMgEWtEkYWD9zJA8km0wJFLcxdjd7t6u8kEUhSnqP6KqBaI36HquQ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/A_rOQW7pwaxVu34bYnlrVFaw9r_wTLZSsp0b_DFLPqp9058SOSUnNlJXqK3vln9u7uew5BbL8V1zRWEUrVM=w640-rj-e30-l100
-kdate: '2019-04-02 17:07:52'
+- https://lh3.googleusercontent.com/CTv33ZetaLuwjslXtovFfbjRTIr0ZR8yL5LDpSngnfC_inK6SORU6A3gd8yZUzCqykORNIXsJBQx0PVqDAV-MrGYAmTgLicVWQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/cWXS2czOTRuOT3QuBJtYx_XM6zihqr_hU44JQLMHn-S6bMSOtWPMn6joBfgJIOiVTxR0Ns761pC0lSN8WGbhF_rf5Xx0zGla=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/OleRDL9AQH0BLmO2A1ARiwlGpcj1aWGVRooIFHn085rCTNySwGH98hB-L98S1ZdRhWL6gMYoalamnB_ADvArNDX10CViimKwEAk=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/dud85RWmkIf508T7XuJZfOgR3mrF0jj8vo1gkVlLXmGHpjtE3UlKLQN46TmB12pL0sb_V65ZhzSiJyF7_VnPEfIxqxDCLSml5Q=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/c0hcQh29ORdEAAu5ZfEEA_vrOqMRdisIIDH3J6mGE-lMdTAdDi0cuW9s6cFfs-fbluxNAerJICS2qqI78_xjIJltMYWhElHjZDg=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/5YAsn5scUQUxxER_YDdvQaa7ZQzC1nKj4DVgKDWy1HuJk2U_TFcrHlpH6YBVs3UK4i8IS1HRY4e_mDXFQkBSm71EEVkTCGR14p4=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/zwQKnYU-RfpY0vpPTVM_3Mh3gIoTSxWOpAcB77q6-mrB2oh-t35uCrt5PVatLN873HZFKb2b2OeSqz__g96fzoH4nK875HdaIA=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/rPy55ruSSoEQlg_tUEVZip6StqLFNPKerwvhzZLfuVqAPCBqRhLIAduGh76orIjxdqO1Z5ezskxLfn1vuunZr9Kw3CWWtK6CSA=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/JXun0HvYQtBnoZB1-u1oFG4ivgXMcU__ye0G1UlTkHrWxxXqWvbz4tQdJY19-OMq8BPIddiwdEhqCNHvP4V2QUTnfxZBZP-h=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/vu_wKONsNMMdfDuu9vzwprEpGGz-EVOOOmBbzGwcjRVXvrgpmMx-4qkSonU3N0Eva7vF3RLvPqZYl1-V-5z4hNCGSnkTFKTU=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/3tYAiJLAW7V-ehNaEUu_akm-Xj9wQKMyMOQNTjOR82dQF9ElAdKf3_Mx_XWM_XvENtYmTIZrfD058Rpqpq-knbWnji40YBjg7w=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/W9wRHxqEETXvd1VJWk9Sg5vPYfg7KhT5BrCA_lyfqs_sd5ozhHmHe6xbiFyf6sDF7J0WdS3Lu3niyIAFB76KxolJyVdbGwRF=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/6SgGHHtDmaaDR-OdEEnJV7GHigF81qOk-uGKBjBAtvM0v8pEUDzfyxTlo5CLD7YB0gc739l5YLnF1UJ-ESrSC_AMRY-wJnluoQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/AbTUZuIRcpvd9girrhB1nn4n6BPehOZngVOjf_mkponVRQX5GkswUDQgU8s2pUZzQQVbv-AXHgmC-7wCOT93OeHoA0vFelVT1w=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/JHA_qHaBKsCKjvZjNisirB7JyNpeUvkeUyvYbF_TWchYCulcsU-_OfblBE9WqL6oSiTvwJEoSP9plsqmKbalIprcrE1cFMxdPPk=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/PkKCWkVpWl2lk7s-WTB9t0E1nInLBrCiiZx76G31G9cL1F4K4pnd0Utw06IXuf8bv30q2JAwHtCRdw1AE18-y_vyEk2YVyX6TnU=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/VmXL5oqvq5_0ym3YtFvfoLP56BJVr7Qe4EYjSiF_axNqA_eIF7X9MZg9zttfJZI3W1VheJHhoiB--axgZkqNA1pOJCzsMzoqmhM=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/MQ44SRYnWzvZFEIQau1rLRI92vlq38o4lfMfXp4ePm_Zg_OlSg-51TELh3dhTg1W5rljIi2JENoebjgUsFsRH-41JhwsfjTJ6w=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/JbbL7fQpBYcEQFyVZFiebDkuv_PiJcooXGd55qy2EMCozMA5JCJnLPA2X05IxC1IotXikHfZMzunF7aT2yIy19MCej_3-Kdqwg=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/4edpfkbyhWFBZgseGmONeBZUuXqZHBYPUkWHjDwI5y3Y1ugVmTYRpge_yo4CFUucRL3T1BxaAB8JAClrYwzmolYzVK8mvNC3gw=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/sLKe8NhyMpk4JmuK2jbOMpnNqj4JbbtWUM2FcgIBFnbZoeV9LI6Y54xPj-13E5HbFq7MpvLpAWNALxDeYwkhga1IGcLte-bMKw=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/1Oy48CDG2hQyANrIlaicUkia6LaO9VRFewZq3KiRKBp6jICrYYUvU50TcYSJDYILsluW6OIFpmoL4v2LTBerKj6xEuTKb1Ud=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/iaY2LlFDFjVLKL3xMVAQ25eCuRd3jg_4QDBnHGOO8vILElRA9YJ44lMGEUIWK-ELPsVPtqln8xOxmn8rrfvyHfZ--BQSbpKb=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/zCqvDEtCXiMQnJAYvCHuA8CPbNqL2PgPrmk-Bq6rR9ushBtTvQP6AKtJoZY1XRuZO1Mn3oTqeTNq6bkbpQVCcNhzX7TinNekTZ8=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/P-gC47RPxrL9vvyZJmTaSU6tE0DnlJl2_Y3TuLXXYWa-a-Td_t79C0j9MG8hDZ3LVj2NnkySB9dPjYGrPVqOXv1-ZyxfFhtt=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/Xs43f4iBDQ-835ca5ot6ooGle8-YXUD0fjSoY6liG61ezSSD9lLBYUXDLnDpZYLQZ8RZBVu88grJTmIdEZXz6iDUlkj_5SxBHQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/JwSQE8XtwMOXmJNLIrlzS722teXft8eO7RlycKxKHPSm25EcM9GKnHhKwyGkEvWaSed628mE2VCYWIcNVZcLiN6w41kNdqjKGg=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/2qJVl3YE2wBNnlwu6smk2D-p-DehthON-AFdxhACti1NviCxwKxgRDcexxrqI_gRc9MVjBMk4tQtN4Euots_bh-dOQFJgJtd=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/MvWtpEKjMHBnJdLwns9WJpn-0Ikjl6cNPJv1FEGnDq6Oog4ijT8QWkOYeWtgdEqLXlFEbAtrh_wWuQQ20Jhu8gFVfREwTDf-=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/emHhT9FLUsuHEeXPYivAwBs0aQJnVOHcnLCP_4LFDkbmDh-baS-LEJ7FXUTdsqH-IfEaUIWvQF1UZWanwMDXq32K9wFhx3qA=w640-rj-e30-l100
+kdate: '2021-05-19 18:00:03'
 kitchen: offene
-kref: APN2-AA-CUM009
-lastedited: '2019-04-02 17:07:57'
+kref: DAN2-DA-DAM009
+lastedited: '2021-05-25 12:08:26'
 living: 92
 location: Benitachell
 luxury: false
@@ -112,15 +114,16 @@ penthouse: false
 pid: 5643144871804928
 plot: 92
 pool: Gemeinschafts
-price: 152000
+price: 163000
 province: Alicante
 ptype: Wohnung
 ref: APN2-CUM009
 salestage: 0
-shas: '{''en'': ''nosha'',''de'': ''nosha'',''pcbs'': ''nosha''}'
+shas: '{"de": "8e76fe806f486eac90aafa0f6afd7548a0ebc9e2", "en": "72cc53ce1774953ce058447b126109178040e82e",
+  "pcbs": "72cc53ce1774953ce058447b126109178040e82e"}'
 slug: 5643144871804928-Wohnung-zu-verkaufen-Benitachell/
 solarium: false
-thumb: https://lh3.googleusercontent.com/kKq-34okDJD7eXzGafWy_XAHadUl5QIy7v_grDghxegkMyJvYMc-jaFfTXs1wQlQsYNX_3Unk8En3X0-F_8z=w400-h240-n-rj-e30-l100
+thumb: https://lh3.googleusercontent.com/CTv33ZetaLuwjslXtovFfbjRTIr0ZR8yL5LDpSngnfC_inK6SORU6A3gd8yZUzCqykORNIXsJBQx0PVqDAV-MrGYAmTgLicVWQ=w400-h240-n-rj-e30-l100
 topsix: false
 town: Cumbre del Sol
 utility: true
