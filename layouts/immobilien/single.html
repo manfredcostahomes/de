@@ -1,6 +1,12 @@
 {{ define "head" }}
 
 <link rel="stylesheet" href="/css/amp.css">
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<meta name="title" property="og:title" content="{{ .Params.ptype }} {{ .Params.location }} {{ .Params.town }} ref:{{ .Params.ref }}" />
+<meta name="image" property="og:image" content={{ .Params.thumb }} />
+<meta name="url" property="og:url" content="https://de.manfredcostahomes.com/immobilien/{{ .Params.slug }}index.html" />
+<meta name="description" property="og:description" content="{{ .Params.DE }}" />
     
 {{ end }}
 
@@ -168,7 +174,7 @@
     }, 500);
   }
   function setbackbutton(){
-    if(document.referrer.indexOf("maxgoldhouse.com") !== -1){
+    if(document.referrer.indexOf("manfredcostahomes.com") !== -1){
      $('#btn-property-back').attr('href',document.referrer)
    }else{
      $('#btn-property-back').attr('href',window.location.protocol + "//" + window.location.host)
