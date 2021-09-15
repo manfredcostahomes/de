@@ -13,6 +13,7 @@ DE: Luxus-Neubauwohnungen mit Meerblick auf dem &quot;Cumbre del Sol&quot; Gipfe
   mit vielen  Resrtaurants. Schauen Sie es sich einfach an - und finden Sie Ihre persönliche
   Traumwohnung. Termine jederzeit.
 ES: ES
+FR: FR
 aircon: true
 balconies: '1'
 baths: 2
@@ -47,6 +48,7 @@ features:
 finca: false
 fireplace: false
 frequency: sale
+frfeatures: []
 furnished: unmöbliert
 golf: false
 hauser:
@@ -74,10 +76,27 @@ images:
 - https://lh3.googleusercontent.com/fR_QkDlcQWVGVC_5hhoz_KsAlzkYZMTvPWOH-WOjjJ1MzqBZgNPq_SF5zF-PLsCpW6-cevTKYsOF1aRCc5vc=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/FdBL4fZKlxEHqUZaXdrncLA_LdyD0-6LzKrC11yCvpyUOjxQaiOTIV2_IpMQ4TQlhdOUReyQBfDBYR9I68v1sA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/IQyUCLUAVHCdQ1ZRVPfm95aexc64pJrb3b3PYXdkq2ck-_MYR23nowW_RZLNKmZUIAuoFN--jaHsASJ2IBU=w640-rj-e30-l100
-kdate: '2019-05-02 18:00:01'
+- https://lh3.googleusercontent.com/fMU3BtNUMLHuySkeO3MrbTY3mif8NqSvOhx3EaAjIFR51zBItjgTZZ0FVwvwJJAWMxiU6bULcjChBFrzzt-gzQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/KaGn4Qa-0rn7d8aOywc-WjPLecN3k-XJ41D9TwTSCkjQq-g9WIKAvt2RYQuFpyijgiOyiZ7dGKd031WH3B7q=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/r2d2IYjUGwDXZ4JdCjAP2TWcioGp990_eHi2WkT_XpNrArnNYsMQprpq0igjvuiTJGo6vE3GKFxKFQDH-bgM=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/GgQG27R5cBjUdUttbZ_3lKIpcJE67AW477ycvPOgsHOo7832XbzUoO1iRmC7d8649h473HQ1gzsaJJnEwKA=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/cmM1J7rP0MuxGkk1KgLwwXAloNBHDFo7cXRXuUkLSu0-AEvxM2zQh1TyQOFATUxFe3FqC5WIvH_AzVlzGB6H=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/VFlGfEZqTGDildWCLHpNsNMlcgztgxfX3IXKHVlJkWOfsbklUns0o3wyfID3dETR6Jk8_Fh4pQEyHE1JuQjb=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/BW_cz8Rq0cAfwPnB5OV0bHg-FPR2XgaOeA-i4ELrcR9o1DujgiDjSXBkAqjWyavyX-vQvvXUBmc-oOOFJ7U=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/SuQGqgCgXCbpKflnn3IUcbbrwnp2Phzkf4fsTeEgx2B8SgJEC7TdcZ3PKJhEw8pgCWESq6XJh78rKmcRUnI=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/cF_gZP_AH_6hEr3uf_UYyi-3Je3D9EkjVPPLS24WuyGdt88uXRfERFpGCF-nkN8FUsMfLF_cloBD_Th4EboJ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/FHceMQuAsYuGXzMIjFU7yKlK7hlmAH8ESc18wcY-BK-yypGkrqS7Tvzpcmi6cDoYH1pT0CzNTFuK-kIfiW3e=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/8iTrBQN96_ISSZbSqsd6o7PWiuzqfXjLRB3PnYJCeK7oud0zOdMaDf-GTcH2gGKswCYSm7fuJQojjfl5g1rV=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/Hb86IOIdzYxGvhif0_fG1jDM7fberkN_2RwPtSwfRWNPwICCq95nTtfEiuAtZvfiL1UZyK01cI1zicW0u38=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/xbZ9syzMYk-p5uVa6ntBHu0HBu2aoiaefxqBDvt8pcQSNdk3Gu34TNEyI3De1pmDNSUUh1syQhXMDxzX1Ec8yQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/SJNH6G04kbVFvmqXnWEFjrL7DBAz8iSBKvmsR1Ilg-WamRO4QsbdQtCngASdcuSihg8qYU5x47ptCcwqyETQ0w=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/03nw8oNd03R7rEO1WV5GSdzQ6abPQ6c5tNw0D0dhFuGRrEc7JbRaMRfrwzClurtvCJLssYxfTT5qaitb2L_AiA=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/h4X5jTbx7i4ncu9rO6lxEUiIFiMkyKNSF_9XhCAOfAHYPFEpSBPKCNB9he-c6zWl8Z0rkVvFJMTnBR8eLfY6kQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/_4pXkOTW6lBH7x2-7sHQHI6m3FPU6NH0vGVWuJ9EWl4-5Wn4rIdkfcnL70Wy5Uv_G9NiFdV4XYSP2DstLyEW=w640-rj-e30-l100
+kdate: '2021-09-09 18:00:04'
 kitchen: offene
-kref: APN2-AF-CUM0021
-lastedited: '2019-05-09 07:44:27'
+kref: DQN2-DQ-DQM0021
+lastedited: '2021-09-15 14:55:08'
 living: 132
 location: Moraira
 luxury: false
@@ -88,13 +107,13 @@ penthouse: false
 pid: 5635698069602304
 plot: 132
 pool: Gemeinschafts
-price: 217356
+price: 276000
 province: Alicante
 ptype: Wohnung
 ref: APN2-CUM0021
 salestage: 0
-shas: '{"de": "cc82b080b79c18ea7f313df69de5868bde19e14a", "en": "439f27cf6118055eed319e60803b7bbe3188b5bd",
-  "pcbs": "439f27cf6118055eed319e60803b7bbe3188b5bd"}'
+shas: '{"de": "06675c29daf573f6aad2ca410c5ec1152c26a28c", "en": "b94665a5b68fffac68c263ad96463757b07d4bb9",
+  "pcbs": "b94665a5b68fffac68c263ad96463757b07d4bb9"}'
 slug: 5635698069602304-Wohnung-zu-verkaufen-Moraira/
 solarium: false
 thumb: https://lh3.googleusercontent.com/fR_QkDlcQWVGVC_5hhoz_KsAlzkYZMTvPWOH-WOjjJ1MzqBZgNPq_SF5zF-PLsCpW6-cevTKYsOF1aRCc5vc=w400-h240-n-rj-e30-l100
