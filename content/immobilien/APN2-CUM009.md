@@ -100,10 +100,10 @@ images:
 - https://lh3.googleusercontent.com/2qJVl3YE2wBNnlwu6smk2D-p-DehthON-AFdxhACti1NviCxwKxgRDcexxrqI_gRc9MVjBMk4tQtN4Euots_bh-dOQFJgJtd=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/MvWtpEKjMHBnJdLwns9WJpn-0Ikjl6cNPJv1FEGnDq6Oog4ijT8QWkOYeWtgdEqLXlFEbAtrh_wWuQQ20Jhu8gFVfREwTDf-=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/emHhT9FLUsuHEeXPYivAwBs0aQJnVOHcnLCP_4LFDkbmDh-baS-LEJ7FXUTdsqH-IfEaUIWvQF1UZWanwMDXq32K9wFhx3qA=w640-rj-e30-l100
-kdate: '2021-05-19 18:00:03'
+kdate: '2021-09-08 18:00:03'
 kitchen: offene
-kref: DAN2-DA-DAM009
-lastedited: '2021-05-25 12:08:26'
+kref: DPN2-DP-DPM009
+lastedited: '2021-09-15 14:54:40'
 living: 92
 location: Benitachell
 luxury: false
@@ -118,9 +118,9 @@ price: 163000
 province: Alicante
 ptype: Wohnung
 ref: APN2-CUM009
-salestage: 0
-shas: '{"de": "8e76fe806f486eac90aafa0f6afd7548a0ebc9e2", "en": "72cc53ce1774953ce058447b126109178040e82e",
-  "pcbs": "72cc53ce1774953ce058447b126109178040e82e"}'
+salestage: 2
+shas: '{"de": "d2ef6d8107371a1f17dec2b1b04423fbf271b7fa", "en": "53b08f004d792956b4b951c7aa1e59e89fe3e280",
+  "pcbs": "53b08f004d792956b4b951c7aa1e59e89fe3e280"}'
 slug: 5643144871804928-Wohnung-zu-verkaufen-Benitachell/
 solarium: false
 thumb: https://lh3.googleusercontent.com/CTv33ZetaLuwjslXtovFfbjRTIr0ZR8yL5LDpSngnfC_inK6SORU6A3gd8yZUzCqykORNIXsJBQx0PVqDAV-MrGYAmTgLicVWQ=w400-h240-n-rj-e30-l100
