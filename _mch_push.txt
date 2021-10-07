@@ -1,1 +1,1 @@
-pushDataToGitHub pushing a file to trigger build
+[skip ci]pushing a file to trigger build
