@@ -1,7 +1,7 @@
 ---
 title: Datenschutzerklärung
 type: politik
-enslug: /policy/privacy/
+enslug: /policy/privacy/index.html
 ---
 
 # Datenschutzerklärung

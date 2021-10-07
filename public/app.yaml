@@ -1,0 +1,26 @@
+runtime: python39
+
+default_expiration: "10m"
+
+handlers:
+- url: /hauser/(.*)
+  static_files: static/hauser/\1/index.html
+  upload: static/hauser/(.*)/index.html
+
+- url: /immobilien/(.*)/
+  static_files: static/immobilien/\1/index.html
+  upload: static/immobilien/(.*)
+  
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /
+  static_dir: static
+
+- url: /favicon.ico
+  static_files: static/favicon.ico
+  upload: static/favicon.ico
+
+error_handlers:
+- file: custom_404.html
