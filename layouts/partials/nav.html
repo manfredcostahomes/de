@@ -32,13 +32,13 @@
                  {{ $myVar = strings.TrimRight "/" $myVar  }}
               {{end}}
               {{if (in $myVar "sud") }}
-                {{ $myVar = replace .Permalink "sud" "south"  }}
+                {{ $myVar = replace $myVar "sud" "south"  }}
               {{end}}
               {{if (in $myVar "nord") }}
-              {{ $myVar = replace .Permalink "nord" "north"  }}
+              {{ $myVar = replace $myVar "nord" "north"  }}
             {{end}}
-            {{if (in $myVar "provinz") }}
-            {{ $myVar = replace .Permalink "provinz" "province"  }}
+            {{if (in $myVar "provinz-murcia") }}
+            {{ $myVar = replace $myVar "provinz-murcia" "murcia-province"  }}
             {{end}}
               <a href='https://www.manfredcostahomes.com{{ $myVar }}' class="navbar-item has-text-black is-uppercase else"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ end }}
