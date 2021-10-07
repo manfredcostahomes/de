@@ -32,7 +32,7 @@
                  {{ $myVar = strings.TrimRight "/" $myVar  }}
               {{end}}
               {{if (in $myVar "süd") }}
-                {{ $myVar = replace .Permalink "süd" "south"  }}
+                {{ $myVar = replace .Permalink "sud" "south"  }}
               {{end}}
               {{if (in $myVar "nord") }}
               {{ $myVar = replace .Permalink "nord" "north"  }}

@@ -43,7 +43,7 @@ frequency: sale
 furnished: Teilmöbliert
 golf: false
 hauser:
-- Costa Blanca Süd
+- Costa Blanca Sud
 - Valencia Region
 - Villa
 - Pilar de la Horadada
