@@ -38,7 +38,7 @@
               event.preventDefault();
               loc = document.getElementById("location").value;
               if( taxhomes.includes(loc)){
-                location.href = "/hauser/"+loc.toLowerCase().replace(/ /g,"-");
+                location.href = "/hauser/"+loc.toLowerCase().replace(/ /g,"-").replace("süd","sud");
               }else{
                 document.getElementById("location").value = 'Keine Häuser verfügbar für '+loc
               }                           
