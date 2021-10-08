@@ -12,6 +12,7 @@ DE: Moderne freistehende Villen mit 3 Schlafzimmern auf venrünftigen grossen Gr
   mehrere Golfplätze , gute Einkaufsmöglichkeiten und vieles mehr befinden sich in
   der Nähe. Ein perfekte Traumlage - Ihre künftige Villa am Meer.
 ES: ES
+FR: FR
 aircon: true
 balconies: '0'
 baths: 2
@@ -47,6 +48,7 @@ features:
 finca: false
 fireplace: false
 frequency: sale
+frfeatures: []
 furnished: Möbeloptionen
 golf: false
 hauser:
@@ -63,7 +65,7 @@ homes:
 - Costa Calida
 - Murcia Region
 - Villa
-- Los Alcázares
+- Los Alcazares
 - from 200001 to 300000
 - Murcia Province
 - Mar Menor
@@ -90,10 +92,10 @@ images:
 - https://lh3.googleusercontent.com/lrPncSCRbCX0lDYK1h46xrojaPClwtMMoJHu615ZjQVKXz0uNIYPbhTaMBw6H0bHDr2fGyshY8g_yVmtedyeNA=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tGMjtYAI_GwODB4uC1FtuOpTVTzWSRsJC4YFD-92MJR8jFYCMdef093OL9VHNjxPJ81bYE0atFjuW_VWw_Q=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/6D0OyQgFgNevDW3zEcAUII8Mo9F7C9DiFu9zotscZVAFTInONBv31hqrt-Qy-0w5Ev_r9Sf64uND3eOmTz-8=w640-rj-e30-l100
-kdate: '2019-02-07 11:21:07'
+kdate: '2021-10-04 18:00:03'
 kitchen: offene
-kref: DHN2-AE-Alc4134
-lastedited: '2019-02-07 18:07:13'
+kref: EAN2-EA-Alc4134
+lastedited: '2021-10-08 12:13:00'
 living: 80
 location: Los Alcazares
 luxury: false
@@ -109,11 +111,12 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN2-Alc4134
 salestage: 0
-shas: '{"de": "437e6054fc5aa2f9785b73e0e339ee51d99f04f2", "en": "5d3db62e8d8456bc514df7623f174922d96141d8"}'
-slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcázares/
+shas: '{"de": "df8eb6d40da2c9519570f3d9535089b458512cb3", "en": "524f7abb8465d13e6634cbaed761a2040825fed0",
+  "pcbs": "524f7abb8465d13e6634cbaed761a2040825fed0"}'
+slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/qpLK2zDIhJ5E3QQ0K-roujsEq5ku-30T2B3nYANJwmeyZ4m0iGU9cGWLa8B_ofgIa0y0kIxXKkoQkpbPjk-Y=w400-h240-n-rj-e30-l100
 topsix: false
-town: Los Alcázares
+town: Los Alcazares
 utility: true
 ---
