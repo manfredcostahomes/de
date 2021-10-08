@@ -85,10 +85,10 @@ images:
 - https://lh3.googleusercontent.com/ahp_ErUWCIpwNNdGibZ2upd3jbms2HFofi0XbxwIIv158WLEV_uWzc5APVwWc2Ox9x-pEMYm6AIOtVy938y3=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/UO_KblhAUaqM6IV3klANWa3V5WVE4hcyAwZeyZE6rVhvItlr3gGENHpkUgNYsPXP_Nrx3WfvpXwAXnaJkBO8jQ=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/tQGMewaujoSy3NWBBTTHbFVGOsD4BrTjXG6Ai_lGFIqqxY4UP7nknN-IWElwPVR2OsJ0_Z5_CeyDHaTA1dYy=w640-rj-e30-l100
-kdate: '2021-10-06 18:00:01'
+kdate: '2021-10-08 12:12:01'
 kitchen: offene
-kref: SHN2-ED-Alc4133
-lastedited: '2021-10-08 12:11:58'
+kref: SHN2-EE-Alc4133
+lastedited: '2021-10-08 12:12:25'
 living: 80
 location: Los Alcazares
 luxury: false
@@ -104,8 +104,8 @@ province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "adaa6bbba42b77447a9c33339df31816abfb4a75", "en": "01607225813e397af18c01c28cfe57f7555f2aaa",
-  "pcbs": "01607225813e397af18c01c28cfe57f7555f2aaa"}'
+shas: '{"de": "9f234e9e3af678bcf8432a232436544aef81941e", "en": "32f8fda269b5435d00508332cfbaa5180879efb4",
+  "pcbs": "32f8fda269b5435d00508332cfbaa5180879efb4"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w400-h240-n-rj-e30-l100
