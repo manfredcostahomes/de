@@ -16,8 +16,8 @@
               <a href="/hauser/neubau" class="navbar-item has-text-black is-uppercase ">Neubauimmobilien</a>
               <a href="/kontakt/index.html" class="navbar-item has-text-black is-uppercase ">Kontakt</a>
               {{ $myVar := ""}}
-              {{ if (isset .Params "deslug" ) }}
-              <a href='https://de.manfredcostahomes.com{{ strings.TrimRight "/" .Params.deslug }}' class="navbar-item has-text-black is-uppercase paramsdeslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
+              {{ if (isset .Params "enslug" ) }}
+              <a href='https://www.manfredcostahomes.com{{ strings.TrimRight "/" .Params.enslug }}' class="navbar-item has-text-black is-uppercase paramsdeslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ else if (in .Permalink "neubau") }}
               <a href='https://www.manfredcostahomes.com/homes/new-build' class="navbar-item has-text-black is-uppercase"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ else if (in .Permalink "gebraucht") }}
