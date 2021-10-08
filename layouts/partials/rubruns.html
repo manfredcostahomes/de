@@ -22,7 +22,8 @@
       <span class="column is-full is-size-4">Immobilien nach Costa</span>
       {{ range ($scratch.Get "costa") }}
       <span class="column is-half is-size-5"> 
-          <a href="/hauser/{{ . }}">Häuser zum Verkauf in <locattion style="text-transform: capitalize;" >{{ humanize . }}</locattion></a> 
+        {{ $urltextinde := replace . "sud" "süd" }}
+        <a href="/hauser/{{ . }}">Häuser zum Verkauf in <locattion style="text-transform: capitalize;" >{{ humanize $urltextinde }}</locattion></a> 
       </span>
       {{ end }}
       <span class="column is-full is-size-4">Immobilien nach Region</span>
