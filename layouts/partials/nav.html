@@ -18,7 +18,7 @@
               {{ $myVar := ""}}
               {{ if (isset .Params "enslug" ) }}
               {{ $lowerenslug := lower .Params.enslug }}
-              <a href='https://www.manfredcostahomes.com{{ strings.TrimRight "/" $lowerenslug }}' class="navbar-item has-text-black is-uppercase paramsdeslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
+              <a href='https://www.manfredcostahomes.com{{ $lowerenslug }}' class="navbar-item has-text-black is-uppercase paramsdeslug"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ else if (in .Permalink "neubau") }}
               <a href='https://www.manfredcostahomes.com/homes/new-build' class="navbar-item has-text-black is-uppercase"><img src="//lh3.googleusercontent.com/kEyBIAzDf4lJtEXKBQyEqsnEgvyaNboEl_4vNL6ZWv_LYJ9P67G6zn3wjq6QGwtho6qjKADDviJW76Ul=s16"/> English</a>
               {{ else if (in .Permalink "gebraucht") }}
