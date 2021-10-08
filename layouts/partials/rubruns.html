@@ -40,8 +40,12 @@
       {{ end }}
       <span class="column is-full is-size-4">Immobilien nach Standort</span>
       {{ range ($scratch.Get "location") }}
+      {{ $nonasclocation := . }}
+      {{ $nonasclocation = replace $nonasclocation "dona" "doña" }}
+      {{ $nonasclocation = replace $nonasclocation "alacazares" "alcázares" }}
+      {{ $nonasclocation = replace $nonasclocation "canada" "cañada" }}
       <span class="column is-half is-size-5"> 
-          <a href="/hauser/{{ . }}">Häuser zum Verkauf in <locattion style="text-transform: capitalize;" >{{ humanize . }}</locattion></a> 
+          <a href="/hauser/{{ . }}">Häuser zum Verkauf in <locattion style="text-transform: capitalize;" >{{ humanize $nonasclocation }}</locattion></a> 
       </span>
       {{ end }}
       <span class="column is-full is-size-4">Immobilien nach Typ</span>

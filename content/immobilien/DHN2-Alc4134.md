@@ -37,7 +37,7 @@ description: Modern top quality seafront detached villas located only ca. 800 m 
   offer from renowned furniture suppliers. Modern style well  priced and full service
   included. Los Alcázares is near several golf courses, huge shopping  malls and more.
 display: true
-enslug: /property/6302357163868160-Detached-Villa-for-sale-Los-Alcázares/
+enslug: /property/6302357163868160-Detached-Villa-for-sale-Los-Alcazares/
 features:
 - Private Pool Option
 - Roof Terrace
@@ -53,7 +53,7 @@ hauser:
 - Costa Calida
 - Murcia Region
 - Villa
-- Los Alcázares
+- Los Alcazares
 - von 200001 bis 300000
 - Neubau
 - Provinz Murcia
@@ -95,7 +95,7 @@ kitchen: offene
 kref: DHN2-AE-Alc4134
 lastedited: '2019-02-07 18:07:13'
 living: 80
-location: Los Alcázares
+location: Los Alcazares
 luxury: false
 moredetails: ''
 offplan: true
