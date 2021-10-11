@@ -1,6 +1,21 @@
 {{ define "head" }}
 
 <link rel="stylesheet" href="/css/amp.css">
+
+<meta name="title" property="og:title" content="{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} {{if eq .Params.salestage 0 }} €{{ .Params.price | lang.NumFmt 0 }}{{ end }} Ref: {{ .Params.ref }} " />
+
+
+<meta name="image" property="og:image" itemprop="image" content="{{ .Params.thumb }}" />
+<meta name="url" property="og:url" content="https://de.manfredcostahomes.com/{{ .Params.slug }}" />
+<meta name="description" property="og:description" content="{{ .Params.DE }}" />
+
+<meta name="twitter:site" content="@manfredcostahomes" />
+<meta name="twitter:domain" content="manfredcostahomes.com" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="{{ .Params.ptype }} {{ .Params.location }} {{ if ne .Params.location .Params.town }}{{ .Params.town }}{{ end }} {{if eq .Params.salestage 0 }} €{{ .Params.price | lang.NumFmt 0 }}{{ end }} Ref: {{ .Params.ref }}" />
+<meta property="twitter:description" content="{{ .Params.DE }}" />
+<meta property="twitter:image" itemprop="image" content="{{ .Params.thumb}}" />
+<meta property="twitter:url" content="https://de.manfredcostahomes.com/{{ .Params.slug }}" />
     
 {{ end }}
 
