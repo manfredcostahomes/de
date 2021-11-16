@@ -213,11 +213,14 @@
              o['visitor']=getCookie("_ga")
              return o;
            };
+           function backcall(returned){
+            console.log(returned)
+         };
     $('form').submit(function() {
    
              var thedata = JSON.stringify($(this).serializeObject())
              var script = document.createElement('script');
-             script.src = 'https://script.google.com/macros/s/AKfycbzF8mtsJGKncig2iRUXyW1JdwfZMKtNtFBhHD36bY4SCFmWg_7q/exec?data='+thedata;
+             script.src = 'https://script.google.com/macros/s/AKfycbzF8mtsJGKncig2iRUXyW1JdwfZMKtNtFBhHD36bY4SCFmWg_7q/exec?callback=backcall&data='+thedata;
              document.body.appendChild(script);
              var enqname = $(this).find('input[name="name"]').val();
              var thankmsg = '<p>Danke '+enqname+'. Jemand aus dem maxgoldhouse Team wird Sie kontaktieren.</p>';
