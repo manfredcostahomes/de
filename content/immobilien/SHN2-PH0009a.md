@@ -11,13 +11,14 @@ DE: Diese modernen, neu erbauten semi-Villen befinden sich in Pilar De La Horada
   Sie den ganzen Tag Sonne  genießen können, vorinstallierte Klimaanlagen, Parkplätze
   abseits der Straße und Abstellraum. Termine jederzeit.  Fragen Sie.
 ES: ES
+FR: FR
 aircon: true
 balconies: '1'
 baths: 2
 beach: true
 beds: 2
 community: Valencia
-costa: Costa Blanca Süd
+costa: Costa Blanca Sud
 created: '2019-01-16 16:21:23'
 currency: null
 defeatures:
@@ -31,7 +32,7 @@ description: Modern new build semi-villas with a huge solarium in Pilar De La Ho
   The houses are all on one level and  consist of 2 or 3 bedrooms, 2 bathrooms, open
   living, dining and kitchen area (white goods  included) and a nice sized private
   pool. Benefits include a large solarium where you can  enjoy all day sun, terrace,
-  garden, pre installed A/C, off road parking, and storage. Book  your personal viewing.
+  garden, pre installed A/C, off road parking, and storage. Book your personal viewing.
 display: true
 enslug: /property/5074003093880832-Semidetached-Villa-for-sale-Pilar-de-la-Horadada/
 features:
@@ -40,24 +41,25 @@ features:
 finca: false
 fireplace: false
 frequency: sale
+frfeatures: []
 furnished: Teilmöbliert
 golf: false
 hauser:
-- Costa Blanca Sud
 - Valencia Region
 - Villa
+- von 200001 bis 300000
+- Costa Blanca Sud
 - Pilar de la Horadada
 - Torre de la Horadada
 - Neubau
-- von 100001 bis 200000
 - Provinz Alicante
 heating: false
 homes:
-- from 100001 to 200000
 - Valencia Region
 - Villa
 - Pilar de la Horadada
 - Costa Blanca South
+- from 200001 to 300000
 - Torre de la Horadada
 - Alicante Province
 - New Build
@@ -76,10 +78,10 @@ images:
 - https://lh3.googleusercontent.com/pMl2PDG2kdjVxTK0IhIIkCKqdKIRIs33sJyx7uvpwb-PZQksXz8KiRRHzZxMlQEkYlgsN_D6MU62bf8KuOnV=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/vpvN52-y-7mlsAXZo1CdyDfNHXipZqyGbLMdfv4VIeG9EZGI7653THiHdMbjoSTIZ1iXqTtbhbAYxoQgAZTSkw=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/0IP1aJ_DLJANO_5eZVfbyD4IeoZeGoBI-m2yvAoYA8xk9_VTGtTohD1bbnqJGbRtKU6TPnDm-S_wyPCGEJk_=w640-rj-e30-l100
-kdate: '2019-02-07 11:21:07'
+kdate: '2022-02-20 20:00:03'
 kitchen: offene
-kref: SHN2-AD-PH0009a
-lastedited: '2019-02-07 18:05:35'
+kref: SHN2-ES-PH0009a
+lastedited: '2022-02-22 10:00:06'
 living: 90
 location: Pilar de la Horadada
 luxury: false
@@ -90,12 +92,13 @@ penthouse: false
 pid: 5074003093880832
 plot: 109
 pool: privates
-price: 189900
+price: 229900
 province: Alicante
 ptype: Doppelhaus Villa
 ref: SHN2-PH0009a
 salestage: 0
-shas: '{"de": "c9dfad0b69fcaa1b47623b5a247faeca6936050b", "en": "18446bcfe2bd27b2b85c822d8056e3624d851195"}'
+shas: '{"de": "fff88e9e3db4bcd51a18daf573d476b742b86f92", "en": "c1e7e98701dfcb143b6f4d2c2fb8daace75d2f49",
+  "pcbs": "c1e7e98701dfcb143b6f4d2c2fb8daace75d2f49"}'
 slug: 5074003093880832-Doppelhaus-Villa-zu-verkaufen-Pilar-de-la-Horadada/
 solarium: false
 thumb: https://lh3.googleusercontent.com/UFseJQTIppzNYTDU56A1m8wK0rsZpNS6U8zQ48kp9JMd2IFypzb4oDOhQ3wi0cUwZH_srwXhQgpqZnA1p6A=w400-h240-n-rj-e30-l100
