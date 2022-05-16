@@ -94,10 +94,10 @@ images:
 - https://lh3.googleusercontent.com/i6Warjz41Zblj6EQuKx7RN8W0yUCXN0Yq-oJG_yV4JBhIdJ3P4cRA9LY28spkV-u6Z3TKlra4URByVagAu23bTK9FEleZmylBNE=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/WiCs81a-fFJJsdbhCeqNJs3LB_ud2c3XVU_dcyvRAilcnMBXgceKvkUDGoNF0iuILg1jXn7EkMqJfWKCa5LZ52lp_gUd-gy1MKY=w640-rj-e30-l100
 - https://lh3.googleusercontent.com/eSIkY_5RDmCjaIdjoD9Je9poZGVHsbnG-yg15dobz6Iqv0kAwvwQnvGUrwhuIHEZuJ741lmOgT4nPP2vgDsvv4TfDd2zM2z7=w640-rj-e30-l100
-kdate: '2022-05-09 20:00:02'
+kdate: '2022-05-16 09:42:01'
 kitchen: offene
-kref: FEN2-FE-Alc4134
-lastedited: '2022-05-16 09:41:59'
+kref: FFN2-FF-Alc4134
+lastedited: '2022-05-16 09:42:56'
 living: 80
 location: Los Alcazares
 luxury: false
@@ -113,8 +113,7 @@ province: Murcia
 ptype: Freistehende Villa
 ref: DHN3-Alc4134
 salestage: 0
-shas: '{"de": "fbb18f46b05d9e5b70e7ccdcbbad349ff424ac7a", "en": "abdea6e9a6e5398f86b317f3ad0f1ce556563f0c",
-  "pcbs": "abdea6e9a6e5398f86b317f3ad0f1ce556563f0c"}'
+shas: '{"de": "ba8b2091cdf1e3d8e87f05e95b615a775a7e2ec1", "en": "96e6e1a74babefe3cfef6a37c56834c977790ff9"}'
 slug: 6302357163868160-Freistehende-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
 thumb: https://lh3.googleusercontent.com/rdzKOfeO9mqpu-bRTeiBz5MtUGzp6BMC98AGJRYcqT-De3m1XGcOCFGgTecxxL9YMJinSRUtA-jE1ox0FN3exL3QL0jmVBOl=w400-h240-n-rj-e30-l100
