@@ -68,27 +68,27 @@ homes:
 - Mar Menor
 - New Build
 images:
-- https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/2FAV8Anl6uCQWnRoIMweoP7znYrRYcDTWEChVrwnEF4b08FtjawAcR2x7-hwRkgcdVPh4Z1lQfVlL3tKdjOg=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/1DJ9uDMsK7S-mWzNr8Z1jKZKojQyoea-wecXuYhMMkwvZeOpf1rhqRsDhF-LRnuljwPCM4zV7e-60p1Vm1twGA=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/M2lHoDc0Ox6EE-niptQJaXJdti-S55zZ7lINs3UW3-UkTmIrnJIuv2qxdZuNrqcwPqN1XrNo61c8tEGn1fzk=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/dh0f1YHzAQFgwLm9XHAzBMjPPohdpfK90yHjfkcYaCZ4JP0VyQQuzbY9B_SQPGUpFAKZuPG6FgIIdj7rZUQ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/bdP1BrxjWhUTHWM0-lHeGHIK7K6f0DbHxd4nhmjQrQKmNbw4CAZvWxNankedlBnxsm0soJaj4MRLEon3rPp-=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/P7yx-R0E3AL89hoiodoOqff_JaUmEAGlridIecAULGTSur02j7_-hT-WNfwtGxtd_cj9FRNsnq1StaF1Ycj16w=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/XViXBgHF-3r9av2WHeeE0CDZicSYiPC6x56SRQ8xPnMgRWaCoywonSrA6RubPquC2HrYeIb0uJ4_TqMY0kVc=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/8D3GzqXkGDSOq7XXhv1D4TENcdqKmcitv_yaevELd1tK1tW9naIQHWlave-Pm0SgwfEmbH47cvxPnv5oYTI=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/oFz1O_Sloqqm-txthGAr4dgOq53JraGnFRLYZAD5qmTyb04Hsq-ac04L5wQ72mmb9fQ-EZCLEibsBulHdT8=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/nCN2sS7KxOnFPg3qPvDdlnI5cG5R-8sPQZwqryG_TD5k2s8TyJQGCvFOcAFUbh3xmKNCodBjaXZ_jV5KW4Y=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/A_-WhdF2zjr1MLYkbGiDUCEZOq9TdxbJjbs3gYFw-KjMSVvoddUAIiS2adz0-IEqZKbSndQqUsFMjjs-Mf8DGw=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/EmQPmtcOtJ9eohKsDr8sk9MCZOXVw_1EQ3TEYKgZi5sRuHFE_rWUjm_-IvpOWK6Mf1mo2dsYuBPaL2BOuxGN=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/L55sCY0IxdjCqy2NvQKQcqx85bu6HFQOr762mY4lC_zVmgxH8g-wnVRrEdAkGFFxNZPpZagRwWD1pvRBQl4=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/ahp_ErUWCIpwNNdGibZ2upd3jbms2HFofi0XbxwIIv158WLEV_uWzc5APVwWc2Ox9x-pEMYm6AIOtVy938y3=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/UO_KblhAUaqM6IV3klANWa3V5WVE4hcyAwZeyZE6rVhvItlr3gGENHpkUgNYsPXP_Nrx3WfvpXwAXnaJkBO8jQ=w640-rj-e30-l100
-- https://lh3.googleusercontent.com/tQGMewaujoSy3NWBBTTHbFVGOsD4BrTjXG6Ai_lGFIqqxY4UP7nknN-IWElwPVR2OsJ0_Z5_CeyDHaTA1dYy=w640-rj-e30-l100
-kdate: '2021-10-08 12:12:01'
+- https://lh3.googleusercontent.com/4wCJAdkaf2VssFL50U1dNj5YjMOHmXdKCw0NlIlvPPla-uudFLo0DuGwoYA1sYEEZWvZoBDSTFBd621kmHJbBrgB7dyVkI0kP0M=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/GATpg1I9XZ52ZSJLJl9ZvLSzXa4mIfvGDCfGcs5LBNVlhlKzwxmc2Tti14Ou1ezf_JdbcK_zL9Nfbmg1wxfKLooVdfBXzIHTtT4=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/dDftW_aUswInvLFhmQRslOHpFg9OpddAHVvb4M3OF0elFoOn5bl0q2cQrr8ZG8k0gBbx1PxeAKFXxcZE5V6VzLwcvr3_cK1TqOY=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/mNZHdZhl5RMTRMLFr3eU2aUwkNTXm_9YzGTNxYTpCiGW6A3Fa-TWACGfKrVtHXv6t8zjtn1-J-H3I7m0K7tyB_6sLbbF7L0m=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/lGSQzC65ylPyZ6idA5NGUHL4wHS2AOwHw-BAiMtA9VJtDElJRZuAgsfUa1FFPvcND5jU6OFAT7v8qQLcNLIGTgJHt102BkrD=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/8ZAWHOx-B10GYn0YhDzDkE5yxXuj8wcPvmiomMZwXYvwJ3lCcHGkRSIvvbaT8RQLNfl7C7U2AUvu62cNXc9W1ZSUNzGzCWqH1X0=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/fWUxcpGTL_ueTNDoUn6egV-kErJ56VFWNJKPPhDFDsnLO4g6IhegK3_stTR07n-msb3uCV9NsU4sH3mo9R1YaI6YfScUMmoi66A=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/bwjIb87-HQjc91Iq2yJitmlNiYBVOYZJChh43xWfPSPY3WkjVmnOxQRtau8ei-duQVtfiBLm3VNm-mRU36QSavyFovyoOW7H=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/4-isce8EwOEo_pJpSJnaRYjQ-YZS3wXVOT7YF37WNAugIAT_WYl9PLZCzbXiixrojLSSdKWWX4cBz5VahijUiiIu6gfE_0vZ-g=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/wYuhBcLY4sE0piXkcdWdLmoAcaFFrtVNALzMdTOPFnvJySEl-8xmfkpqKQ5Xsn3FJRJ_MC2VQ1Ik1kYnxYjxxyf6hn8_BkEa=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/oVPl6Bjb1MYQt-wIfgXecyUHJiG0cZKPKiUDnywg9EFIFnUjLUkTlR5OwPO015dg8ldAvY08-9LUWyG3LytrVwHjEDdXkwMCQnM=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/xZsCMoc1yu9AZIp1ysdTiM3CH5a5G-stsQGXUApTuI4ijgwayu_3nYJ4G4v9_Zm0rBGCrAKwFY9HCVcm8rcXtOHXbPLfAQ0gBA=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/RB7F0dQOjLMIU5KboO721NDn7EoLn0oGA800WlBrg_uN88ar3S3U_N8WiBqOV6S39ZvxPfiSQ5NeQ924Oc1a5A9h0tqy8_Ri=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/Ks-FF_-Avlat8_C8B7fyksZt2N9WgPczbg9whCv2x09ExRE3mVEbTv6E_U6PcHBN4iPMKUejoSslen2je7ZOyzSIJPaH7Ax5Kw=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/cwGYb-AAzSqhXTab0azTO18ZNkG_Q9hnjqWf3qdn3tFzdHldwFB3oJQvvFrEG2z2TGOK9FyeANTAJjx1BEgZvAq6VwQgfqBdgQ=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/My2xiZFANh5ZRFKL39TpicslIPqNLINGT0Nkfa1p0w6ir4fhQKVL6kRBBUI4xchfw5VhgxR9jswW39Q2xtBQ9-7kyUmNPY5QUE0=w640-rj-e30-l100
+- https://lh3.googleusercontent.com/gfSwyGhdxUu7PfEBGS2PkykNJx53VhjUa3qeju3rR16IILF-NXvEyyoBUuGqMHLifjRk-b1qMOrh7LzL-2mPYzO3a2IBxzrN=w640-rj-e30-l100
+kdate: '2022-05-09 20:00:02'
 kitchen: offene
-kref: SHN2-EE-Alc4133
-lastedited: '2021-10-08 12:12:25'
+kref: SHN2-FI-Alc4133
+lastedited: '2022-05-16 09:32:17'
 living: 80
 location: Los Alcazares
 luxury: false
@@ -99,16 +99,16 @@ penthouse: false
 pid: 5147289865682944
 plot: 350
 pool: privates
-price: 139950
+price: 162950
 province: Murcia
 ptype: Doppelhaus Villa
 ref: SHN2-Alc4133
 salestage: 0
-shas: '{"de": "9f234e9e3af678bcf8432a232436544aef81941e", "en": "32f8fda269b5435d00508332cfbaa5180879efb4",
-  "pcbs": "32f8fda269b5435d00508332cfbaa5180879efb4"}'
+shas: '{"de": "60d008aab3f89b9f8d36d36e6dcc1401f36b0398", "en": "6f7969fc6e8d7a775c3893c80c079c07936b098e",
+  "pcbs": "6f7969fc6e8d7a775c3893c80c079c07936b098e"}'
 slug: 5147289865682944-Doppelhaus-Villa-zu-verkaufen-Los-Alcazares/
 solarium: false
-thumb: https://lh3.googleusercontent.com/twgKV0TQh5kSWHMhz-4Ufh2RFsD4YvWcXFogxguVjhPeaSAam4z41Gnsqdk2ZCZPxYLDPa-gke2PMq8QtYhIdA=w400-h240-n-rj-e30-l100
+thumb: https://lh3.googleusercontent.com/4wCJAdkaf2VssFL50U1dNj5YjMOHmXdKCw0NlIlvPPla-uudFLo0DuGwoYA1sYEEZWvZoBDSTFBd621kmHJbBrgB7dyVkI0kP0M=w400-h240-n-rj-e30-l100
 topsix: false
 town: Los Alcazares
 utility: true
